@@ -1,0 +1,4220 @@
+{
+  "numTabs": 281,
+  "tabs": [
+    {
+      "n": "T2 (Remove-only)",
+      "i": 0,
+      "id": "8d5b900068a3d2e56eb7200ddd85f6a8540cb737a0f3c148e2b4e1c172c8783e",
+      "type": "PremiumStash",
+      "selected": false,
+      "colour": {
+        "r": 99,
+        "g": 128,
+        "b": 0
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi0xMDI1NjM4NH1d/add36a62cf/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi0xMDI1NjM4NH1d/bca6333c61/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi0xMDI1NjM4NH1d/1e0dc0f0ab/Stash_TabL.png"
+    },
+    {
+      "n": "Bump (Remove-only)",
+      "i": 1,
+      "id": "217c435904d37d15a354000bfb2754d0deccf6ebfd395a1e08a6a3af6d72ef7f",
+      "type": "QuadStash",
+      "selected": false,
+      "colour": {
+        "r": 99,
+        "g": 128,
+        "b": 0
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi0xMDI1NjM4NH1d/add36a62cf/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi0xMDI1NjM4NH1d/bca6333c61/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi0xMDI1NjM4NH1d/1e0dc0f0ab/Stash_TabL.png"
+    },
+    {
+      "n": "4 (Remove-only)",
+      "i": 2,
+      "id": "46ef1aabc8ec36859eb797c62586dc9188391b2d9a359a1c4aada3d9a808cd66",
+      "type": "NormalStash",
+      "selected": false,
+      "colour": {
+        "r": 124,
+        "g": 84,
+        "b": 54
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi04NjI5MTk0fV0/10d10e4923/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi04NjI5MTk0fV0/bc028daabc/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi04NjI5MTk0fV0/6aa79009ee/Stash_TabL.png"
+    },
+    {
+      "n": "currency (Remove-only)",
+      "i": 3,
+      "id": "8a003b8524b99de2207cfb6b841c412d8459ca60f1831e929feb6efc4abcc1cc",
+      "type": "CurrencyStash",
+      "selected": false,
+      "colour": {
+        "r": 99,
+        "g": 128,
+        "b": 0
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi0xMDI1NjM4NH1d/add36a62cf/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi0xMDI1NjM4NH1d/bca6333c61/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi0xMDI1NjM4NH1d/1e0dc0f0ab/Stash_TabL.png"
+    },
+    {
+      "n": "Maps (Remove-only)",
+      "i": 4,
+      "id": "9ba2822c09c9c7ddfb0ef84172975d7e0f7e2fee695332a0cdc790101600c341",
+      "type": "MapStash",
+      "selected": false,
+      "colour": {
+        "r": 99,
+        "g": 128,
+        "b": 0
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi0xMDI1NjM4NH1d/add36a62cf/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi0xMDI1NjM4NH1d/bca6333c61/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi0xMDI1NjM4NH1d/1e0dc0f0ab/Stash_TabL.png"
+    },
+    {
+      "n": "currency",
+      "i": 5,
+      "id": "56d054da7eda4f5042f824b6c6b62d7b5983cd04efffc9fb0a9275e26cc4a232",
+      "type": "CurrencyStash",
+      "selected": false,
+      "colour": {
+        "r": 99,
+        "g": 128,
+        "b": 0
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi0xMDI1NjM4NH1d/add36a62cf/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi0xMDI1NjM4NH1d/bca6333c61/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi0xMDI1NjM4NH1d/1e0dc0f0ab/Stash_TabL.png"
+    },
+    {
+      "n": "currency (Remove-only)",
+      "i": 6,
+      "id": "4605be42220f33a078ea5f792c44e647d80df9ba7b7533985ae68e29a45716a6",
+      "type": "CurrencyStash",
+      "selected": false,
+      "colour": {
+        "r": 99,
+        "g": 128,
+        "b": 0
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi0xMDI1NjM4NH1d/add36a62cf/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi0xMDI1NjM4NH1d/bca6333c61/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi0xMDI1NjM4NH1d/1e0dc0f0ab/Stash_TabL.png"
+    },
+    {
+      "n": "CR (Remove-only)",
+      "i": 7,
+      "id": "cb7677c6e225980e9fd285ccf0c130c8fcfb657d40c079e9a0bc7cd8eeda66be",
+      "type": "PremiumStash",
+      "selected": false,
+      "colour": {
+        "r": 255,
+        "g": 170,
+        "b": 0
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi0yMjAxNn1d/317f9d2d8c/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi0yMjAxNn1d/c06c5980a6/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi0yMjAxNn1d/9a7ac3c720/Stash_TabL.png"
+    },
+    {
+      "n": "4 (Remove-only)",
+      "i": 8,
+      "id": "7c917b8051560e53ac4dea3908e482523902cdc06181fd27c5cdeb6ea565f118",
+      "type": "PremiumStash",
+      "selected": false,
+      "colour": {
+        "r": 99,
+        "g": 128,
+        "b": 0
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi0xMDI1NjM4NH1d/add36a62cf/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi0xMDI1NjM4NH1d/bca6333c61/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi0xMDI1NjM4NH1d/1e0dc0f0ab/Stash_TabL.png"
+    },
+    {
+      "n": "$ (Remove-only)",
+      "i": 9,
+      "id": "ffb2f1be1ce5741d79d920a337e7a7996253a38f1ae2e28acc9cd531e40fc49d",
+      "type": "CurrencyStash",
+      "selected": false,
+      "colour": {
+        "r": 99,
+        "g": 128,
+        "b": 0
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi0xMDI1NjM4NH1d/add36a62cf/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi0xMDI1NjM4NH1d/bca6333c61/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi0xMDI1NjM4NH1d/1e0dc0f0ab/Stash_TabL.png"
+    },
+    {
+      "n": "13 (Remove-only)",
+      "i": 10,
+      "id": "b9b38b99a49f4c194481440353f8e610c655b2d1b3e474131fd8e837cfa1d307",
+      "type": "PremiumStash",
+      "selected": false,
+      "colour": {
+        "r": 99,
+        "g": 128,
+        "b": 0
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi0xMDI1NjM4NH1d/add36a62cf/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi0xMDI1NjM4NH1d/bca6333c61/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi0xMDI1NjM4NH1d/1e0dc0f0ab/Stash_TabL.png"
+    },
+    {
+      "n": "1 (Remove-only)",
+      "i": 11,
+      "id": "9fb75216261c5d0a439f3bf00bdd68b7d870345738ecdb09fffb25124104d44c",
+      "type": "PremiumStash",
+      "selected": false,
+      "colour": {
+        "r": 99,
+        "g": 128,
+        "b": 0
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi0xMDI1NjM4NH1d/add36a62cf/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi0xMDI1NjM4NH1d/bca6333c61/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi0xMDI1NjM4NH1d/1e0dc0f0ab/Stash_TabL.png"
+    },
+    {
+      "n": "red (Remove-only)",
+      "i": 12,
+      "id": "58c2a9b6d35ca16a3123793ebe8efad6121fe911299b8b718be41e46e0264a86",
+      "type": "PremiumStash",
+      "selected": false,
+      "colour": {
+        "r": 99,
+        "g": 128,
+        "b": 0
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi0xMDI1NjM4NH1d/add36a62cf/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi0xMDI1NjM4NH1d/bca6333c61/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi0xMDI1NjM4NH1d/1e0dc0f0ab/Stash_TabL.png"
+    },
+    {
+      "n": "Currency (Remove-only)",
+      "i": 13,
+      "id": "437774ee6f0a7982cc1830f7309aeb4c5a8db54a795768f45e0f544982868e8d",
+      "type": "CurrencyStash",
+      "selected": false,
+      "colour": {
+        "r": 191,
+        "g": 245,
+        "b": 0
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi00MTk3MTIwfV0/8f6544fa40/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi00MTk3MTIwfV0/97efbc0e99/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi00MTk3MTIwfV0/093ba5bbf0/Stash_TabL.png"
+    },
+    {
+      "n": "£$ (Remove-only)",
+      "i": 14,
+      "id": "bc86fc1dd618acb64a50f3e019aaaf091130a5ed8afc20e811f9d36ac39a054a",
+      "type": "CurrencyStash",
+      "selected": false,
+      "colour": {
+        "r": 99,
+        "g": 128,
+        "b": 0
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi0xMDI1NjM4NH1d/add36a62cf/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi0xMDI1NjM4NH1d/bca6333c61/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi0xMDI1NjM4NH1d/1e0dc0f0ab/Stash_TabL.png"
+    },
+    {
+      "n": "currency-cards (Remove-only)",
+      "i": 15,
+      "id": "c7abeef5c0b423b6aeff0668cfa0c88a8bc7509cd2d694cfc698593cc6291831",
+      "type": "PremiumStash",
+      "selected": false,
+      "colour": {
+        "r": 99,
+        "g": 128,
+        "b": 0
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi0xMDI1NjM4NH1d/add36a62cf/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi0xMDI1NjM4NH1d/bca6333c61/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi0xMDI1NjM4NH1d/1e0dc0f0ab/Stash_TabL.png"
+    },
+    {
+      "n": "KARDS (Remove-only)",
+      "i": 16,
+      "id": "54d21e4ba7b9f17c2fef82dff451128ae626616c306484576018d18dd1d0b3df",
+      "type": "DivinationCardStash",
+      "selected": false,
+      "colour": {
+        "r": 99,
+        "g": 128,
+        "b": 0
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi0xMDI1NjM4NH1d/add36a62cf/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi0xMDI1NjM4NH1d/bca6333c61/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi0xMDI1NjM4NH1d/1e0dc0f0ab/Stash_TabL.png"
+    },
+    {
+      "n": "4 (Remove-only)",
+      "i": 17,
+      "id": "275c998af7755ec9000f2da2c42801ef5fb6adddd323a718e72dabfdb18ac169",
+      "type": "PremiumStash",
+      "selected": false,
+      "colour": {
+        "r": 99,
+        "g": 128,
+        "b": 0
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi0xMDI1NjM4NH1d/add36a62cf/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi0xMDI1NjM4NH1d/bca6333c61/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi0xMDI1NjM4NH1d/1e0dc0f0ab/Stash_TabL.png"
+    },
+    {
+      "n": "Essence (Remove-only)",
+      "i": 18,
+      "id": "d2dd95549ea48f3e3dafcc3aa21e58530b34df6e3cf914c905cf57cbc37308a2",
+      "type": "EssenceStash",
+      "selected": false,
+      "colour": {
+        "r": 0,
+        "g": 0,
+        "b": 128
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi0xNjc3NzA4OH1d/8ff0e88292/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi0xNjc3NzA4OH1d/5af07046ab/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi0xNjc3NzA4OH1d/be4d4fb3d7/Stash_TabL.png"
+    },
+    {
+      "n": "16 (Remove-only)",
+      "i": 19,
+      "id": "2a74aef1128fe93c073589ec177b4db883268a4df4b745268e42f0873b8e1e7f",
+      "type": "PremiumStash",
+      "selected": false,
+      "colour": {
+        "r": 99,
+        "g": 128,
+        "b": 0
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi0xMDI1NjM4NH1d/add36a62cf/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi0xMDI1NjM4NH1d/bca6333c61/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi0xMDI1NjM4NH1d/1e0dc0f0ab/Stash_TabL.png"
+    },
+    {
+      "n": "Vendor (Remove-only)",
+      "i": 20,
+      "id": "c465ef3f63fa7b31755cc4dbba75358c37fdfefb76d99f5a6558335637d2eadb",
+      "type": "PremiumStash",
+      "selected": false,
+      "colour": {
+        "r": 99,
+        "g": 128,
+        "b": 0
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi0xMDI1NjM4NH1d/add36a62cf/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi0xMDI1NjM4NH1d/bca6333c61/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi0xMDI1NjM4NH1d/1e0dc0f0ab/Stash_TabL.png"
+    },
+    {
+      "n": "2 (Remove-only)",
+      "i": 21,
+      "id": "c30ffbe1d2c61b81a087efaf0c27b33d50f68b1de1d719f21e78b58911a83725",
+      "type": "NormalStash",
+      "selected": false,
+      "colour": {
+        "r": 124,
+        "g": 84,
+        "b": 54
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi04NjI5MTk0fV0/10d10e4923/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi04NjI5MTk0fV0/bc028daabc/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi04NjI5MTk0fV0/6aa79009ee/Stash_TabL.png"
+    },
+    {
+      "n": "T1 (Remove-only)",
+      "i": 22,
+      "id": "c4bddc6ebceda18f93ec181ff53187ac814c7f96bc9c5ec151484d1f6f0f5c54",
+      "type": "PremiumStash",
+      "selected": false,
+      "colour": {
+        "r": 99,
+        "g": 128,
+        "b": 0
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi0xMDI1NjM4NH1d/add36a62cf/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi0xMDI1NjM4NH1d/bca6333c61/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi0xMDI1NjM4NH1d/1e0dc0f0ab/Stash_TabL.png"
+    },
+    {
+      "n": "Maps (Remove-only)",
+      "i": 23,
+      "id": "240c7863607a91187e69569630ffec2594b87885e46cfc16c13ba06b5204ac59",
+      "type": "MapStash",
+      "selected": false,
+      "colour": {
+        "r": 99,
+        "g": 128,
+        "b": 0
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi0xMDI1NjM4NH1d/add36a62cf/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi0xMDI1NjM4NH1d/bca6333c61/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi0xMDI1NjM4NH1d/1e0dc0f0ab/Stash_TabL.png"
+    },
+    {
+      "n": "C1 (Remove-only)",
+      "i": 24,
+      "id": "751ec0c8b948f84c29248bed4d1bbc4f0b8015bd57d39c03c96d8320028becfc",
+      "type": "PremiumStash",
+      "selected": false,
+      "colour": {
+        "r": 99,
+        "g": 128,
+        "b": 0
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi0xMDI1NjM4NH1d/add36a62cf/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi0xMDI1NjM4NH1d/bca6333c61/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi0xMDI1NjM4NH1d/1e0dc0f0ab/Stash_TabL.png"
+    },
+    {
+      "n": "12 (Remove-only)",
+      "i": 25,
+      "id": "74f69b55751783a97157f311206e8484228ef1050c378f644fe2486ed41d5b4b",
+      "type": "PremiumStash",
+      "selected": false,
+      "colour": {
+        "r": 99,
+        "g": 128,
+        "b": 0
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi0xMDI1NjM4NH1d/add36a62cf/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi0xMDI1NjM4NH1d/bca6333c61/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi0xMDI1NjM4NH1d/1e0dc0f0ab/Stash_TabL.png"
+    },
+    {
+      "n": "currency-cards (Remove-only)",
+      "i": 26,
+      "id": "cb4e3632f7b8525c57b13cb5fe297f6bcada2c14ee402562256e4c7e5581e0a8",
+      "type": "PremiumStash",
+      "selected": false,
+      "colour": {
+        "r": 99,
+        "g": 128,
+        "b": 0
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi0xMDI1NjM4NH1d/add36a62cf/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi0xMDI1NjM4NH1d/bca6333c61/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi0xMDI1NjM4NH1d/1e0dc0f0ab/Stash_TabL.png"
+    },
+    {
+      "n": "Essences (Remove-only)",
+      "i": 27,
+      "id": "b5ac7c928960f97fc0683412273b5fc92fed5dd17129f79e4ed55345e5118bb4",
+      "type": "EssenceStash",
+      "selected": false,
+      "colour": {
+        "r": 191,
+        "g": 0,
+        "b": 0
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi00MjU5ODQwfV0/cc64d967fb/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi00MjU5ODQwfV0/8e5ec47efe/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi00MjU5ODQwfV0/ff3a937d2d/Stash_TabL.png"
+    },
+    {
+      "n": "CR (Remove-only)",
+      "i": 28,
+      "id": "083a65ef6edb5215a86c67437a4ec658095ed5f13b0ec2c96e2fd3f63940a386",
+      "type": "PremiumStash",
+      "selected": false,
+      "colour": {
+        "r": 255,
+        "g": 191,
+        "b": 128
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi0xNjUxMn1d/e5ec05f537/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi0xNjUxMn1d/0bc9f829c7/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi0xNjUxMn1d/7fff2b2983/Stash_TabL.png"
+    },
+    {
+      "n": "7 (Remove-only)",
+      "i": 29,
+      "id": "2675b4fcebe789d8f0814827ac8935a7d0510009ca0a818ec636170f2716fcb0",
+      "type": "QuadStash",
+      "selected": false,
+      "colour": {
+        "r": 99,
+        "g": 128,
+        "b": 0
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi0xMDI1NjM4NH1d/add36a62cf/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi0xMDI1NjM4NH1d/bca6333c61/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi0xMDI1NjM4NH1d/1e0dc0f0ab/Stash_TabL.png"
+    },
+    {
+      "n": "M (Remove-only)",
+      "i": 30,
+      "id": "e3d5302a35188077db61deedf22d4780ec4fc243c5686d0c385a9b18ebd3678f",
+      "type": "MapStash",
+      "selected": false,
+      "colour": {
+        "r": 0,
+        "g": 77,
+        "b": 0
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi0xNjc1NzUwNH1d/4853e11463/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi0xNjc1NzUwNH1d/e376e4fc24/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi0xNjc1NzUwNH1d/405f7b38d3/Stash_TabL.png"
+    },
+    {
+      "n": "CR (Remove-only)",
+      "i": 31,
+      "id": "cdc145f30e3b46547c7f895e35876ba2598ff2187faef50da425a79dbe2a1d48",
+      "type": "PremiumStash",
+      "selected": false,
+      "colour": {
+        "r": 99,
+        "g": 128,
+        "b": 0
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi0xMDI1NjM4NH1d/add36a62cf/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi0xMDI1NjM4NH1d/bca6333c61/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi0xMDI1NjM4NH1d/1e0dc0f0ab/Stash_TabL.png"
+    },
+    {
+      "n": "D1 (Remove-only)",
+      "i": 32,
+      "id": "b5749308e2a7eb57cd5fc654397351ce62b46a55d2c5024ed898870380805841",
+      "type": "PremiumStash",
+      "selected": false,
+      "colour": {
+        "r": 191,
+        "g": 0,
+        "b": 0
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi00MjU5ODQwfV0/cc64d967fb/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi00MjU5ODQwfV0/8e5ec47efe/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi00MjU5ODQwfV0/ff3a937d2d/Stash_TabL.png"
+    },
+    {
+      "n": "|KARD (Remove-only)",
+      "i": 33,
+      "id": "a78ee197775ca8c97b56685caad2508e7c1e2deeb3e9069fd8abc116aa8f6f4c",
+      "type": "DivinationCardStash",
+      "selected": false,
+      "colour": {
+        "r": 99,
+        "g": 128,
+        "b": 0
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi0xMDI1NjM4NH1d/add36a62cf/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi0xMDI1NjM4NH1d/bca6333c61/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi0xMDI1NjM4NH1d/1e0dc0f0ab/Stash_TabL.png"
+    },
+    {
+      "n": "10 (Remove-only)",
+      "i": 34,
+      "id": "1d049861b9cb8825640747be5691197f00d8c00cf420f87da1f1ea6b0b4fa8f7",
+      "type": "PremiumStash",
+      "selected": false,
+      "colour": {
+        "r": 99,
+        "g": 128,
+        "b": 0
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi0xMDI1NjM4NH1d/add36a62cf/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi0xMDI1NjM4NH1d/bca6333c61/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi0xMDI1NjM4NH1d/1e0dc0f0ab/Stash_TabL.png"
+    },
+    {
+      "n": "CR2 (Remove-only)",
+      "i": 35,
+      "id": "c1d32c54a8583922cbc91e81d24cb657447a39e1cd10748d0775e161d5dcfcc5",
+      "type": "PremiumStash",
+      "selected": false,
+      "colour": {
+        "r": 99,
+        "g": 128,
+        "b": 0
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi0xMDI1NjM4NH1d/add36a62cf/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi0xMDI1NjM4NH1d/bca6333c61/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi0xMDI1NjM4NH1d/1e0dc0f0ab/Stash_TabL.png"
+    },
+    {
+      "n": "1 (Remove-only)",
+      "i": 36,
+      "id": "cd31716f300fe988bd7554eae30f118df66265deccc8e3a4032976e913614d28",
+      "type": "NormalStash",
+      "selected": false,
+      "colour": {
+        "r": 124,
+        "g": 84,
+        "b": 54
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi04NjI5MTk0fV0/10d10e4923/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi04NjI5MTk0fV0/bc028daabc/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi04NjI5MTk0fV0/6aa79009ee/Stash_TabL.png"
+    },
+    {
+      "n": "1 (Remove-only)",
+      "i": 37,
+      "id": "1dee575142d3d428b498b3b5a4bf6fda803e9c2b701245870be0275a39d36c64",
+      "type": "NormalStash",
+      "selected": false,
+      "colour": {
+        "r": 124,
+        "g": 84,
+        "b": 54
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi04NjI5MTk0fV0/10d10e4923/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi04NjI5MTk0fV0/bc028daabc/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi04NjI5MTk0fV0/6aa79009ee/Stash_TabL.png"
+    },
+    {
+      "n": "C Recipe (Remove-only)",
+      "i": 38,
+      "id": "141d8653a5c1c9ea123017bde37c4ba584b63915fdfa68547790a76d0376630e",
+      "type": "PremiumStash",
+      "selected": false,
+      "colour": {
+        "r": 99,
+        "g": 128,
+        "b": 0
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi0xMDI1NjM4NH1d/add36a62cf/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi0xMDI1NjM4NH1d/bca6333c61/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi0xMDI1NjM4NH1d/1e0dc0f0ab/Stash_TabL.png"
+    },
+    {
+      "n": "2 (Remove-only)",
+      "i": 39,
+      "id": "c98b467c007237f77bc3ca4a51c5f2663b6b8ed4b6cec3b5a93fccaabf5ed859",
+      "type": "NormalStash",
+      "selected": false,
+      "colour": {
+        "r": 124,
+        "g": 84,
+        "b": 54
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi04NjI5MTk0fV0/10d10e4923/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi04NjI5MTk0fV0/bc028daabc/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi04NjI5MTk0fV0/6aa79009ee/Stash_TabL.png"
+    },
+    {
+      "n": "9 (Remove-only)",
+      "i": 40,
+      "id": "43ecb73df920c4cda5d2f62b82882629e3d35bdbf1f28359decefb912ffdcbfd",
+      "type": "PremiumStash",
+      "selected": false,
+      "colour": {
+        "r": 99,
+        "g": 128,
+        "b": 0
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi0xMDI1NjM4NH1d/add36a62cf/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi0xMDI1NjM4NH1d/bca6333c61/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi0xMDI1NjM4NH1d/1e0dc0f0ab/Stash_TabL.png"
+    },
+    {
+      "n": "Essence (Remove-only)",
+      "i": 41,
+      "id": "5b49445ced0056ad0e96e40224eec878aed8dc9dd731d41be06540d62ba0fc2f",
+      "type": "EssenceStash",
+      "selected": false,
+      "colour": {
+        "r": 0,
+        "g": 0,
+        "b": 128
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi0xNjc3NzA4OH1d/8ff0e88292/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi0xNjc3NzA4OH1d/5af07046ab/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi0xNjc3NzA4OH1d/be4d4fb3d7/Stash_TabL.png"
+    },
+    {
+      "n": "14 (Remove-only)",
+      "i": 42,
+      "id": "49551bc9e6464739d7b3e9890cb1d501918fb59852a655dac5c7cb487ea60506",
+      "type": "PremiumStash",
+      "selected": false,
+      "colour": {
+        "r": 99,
+        "g": 128,
+        "b": 0
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi0xMDI1NjM4NH1d/add36a62cf/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi0xMDI1NjM4NH1d/bca6333c61/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi0xMDI1NjM4NH1d/1e0dc0f0ab/Stash_TabL.png"
+    },
+    {
+      "n": "3 (Remove-only)",
+      "i": 43,
+      "id": "361d289af9e5841105bdcfded4a50222888f7a8a07a0dc5175be388a0988f6de",
+      "type": "NormalStash",
+      "selected": false,
+      "colour": {
+        "r": 124,
+        "g": 84,
+        "b": 54
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi04NjI5MTk0fV0/10d10e4923/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi04NjI5MTk0fV0/bc028daabc/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi04NjI5MTk0fV0/6aa79009ee/Stash_TabL.png"
+    },
+    {
+      "n": "20 (Remove-only)",
+      "i": 44,
+      "id": "0fc524600ada4db4a3d200125da426bc11e5b92a460834d6a38227672dbbbe54",
+      "type": "QuadStash",
+      "selected": false,
+      "colour": {
+        "r": 99,
+        "g": 128,
+        "b": 0
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi0xMDI1NjM4NH1d/add36a62cf/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi0xMDI1NjM4NH1d/bca6333c61/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi0xMDI1NjM4NH1d/1e0dc0f0ab/Stash_TabL.png"
+    },
+    {
+      "n": "KARDS (Remove-only)",
+      "i": 45,
+      "id": "9c6928611cc59b65fdd4f723564a7996d4ee1fa8242d02f9567755973c9e2c2f",
+      "type": "DivinationCardStash",
+      "selected": false,
+      "colour": {
+        "r": 99,
+        "g": 128,
+        "b": 0
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi0xMDI1NjM4NH1d/add36a62cf/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi0xMDI1NjM4NH1d/bca6333c61/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi0xMDI1NjM4NH1d/1e0dc0f0ab/Stash_TabL.png"
+    },
+    {
+      "n": "GOD (Remove-only)",
+      "i": 46,
+      "id": "4c2825a06a16037c71397d66fdfc11abd90fcfd6f9fdf82cb177350f26a539f9",
+      "type": "PremiumStash",
+      "selected": false,
+      "colour": {
+        "r": 191,
+        "g": 245,
+        "b": 0
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi00MTk3MTIwfV0/8f6544fa40/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi00MTk3MTIwfV0/97efbc0e99/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi00MTk3MTIwfV0/093ba5bbf0/Stash_TabL.png"
+    },
+    {
+      "n": "5 (Remove-only)",
+      "i": 47,
+      "id": "7e4e7b8f4aaf232dfe6a11d2c9ed06e254b0e716c6f9ca606f59e020d78c6572",
+      "type": "PremiumStash",
+      "selected": false,
+      "colour": {
+        "r": 99,
+        "g": 128,
+        "b": 0
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi0xMDI1NjM4NH1d/add36a62cf/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi0xMDI1NjM4NH1d/bca6333c61/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi0xMDI1NjM4NH1d/1e0dc0f0ab/Stash_TabL.png"
+    },
+    {
+      "n": "Maps (Remove-only)",
+      "i": 48,
+      "id": "edabb4d6476a661c0f8c56c885228543b0c5ce6772c2f822b5d8b4cc17fd8db0",
+      "type": "MapStash",
+      "selected": false,
+      "colour": {
+        "r": 192,
+        "g": 128,
+        "b": 255
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi00MTYxMjgxfV0/e085b37164/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi00MTYxMjgxfV0/773b13059a/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi00MTYxMjgxfV0/9c92bb3fe6/Stash_TabL.png"
+    },
+    {
+      "n": "4 (Remove-only)",
+      "i": 49,
+      "id": "b81e3ac5857c92a7f6ebdf0c5eae8c64b7b58936f3e4730a76e2f53cbf7453fd",
+      "type": "PremiumStash",
+      "selected": false,
+      "colour": {
+        "r": 99,
+        "g": 128,
+        "b": 0
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi0xMDI1NjM4NH1d/add36a62cf/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi0xMDI1NjM4NH1d/bca6333c61/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi0xMDI1NjM4NH1d/1e0dc0f0ab/Stash_TabL.png"
+    },
+    {
+      "n": "4 (Remove-only)",
+      "i": 50,
+      "id": "bd615f341f821d90e25106e6e1a3ba12d46558ddbe2caf71bc9ce0364bb35c59",
+      "type": "NormalStash",
+      "selected": false,
+      "colour": {
+        "r": 124,
+        "g": 84,
+        "b": 54
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi04NjI5MTk0fV0/10d10e4923/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi04NjI5MTk0fV0/bc028daabc/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi04NjI5MTk0fV0/6aa79009ee/Stash_TabL.png"
+    },
+    {
+      "n": "20 (Remove-only)",
+      "i": 51,
+      "id": "fafc30a8f32f62f198e0d69c22252505caf64069fe105b058096617376b1cff9",
+      "type": "QuadStash",
+      "selected": false,
+      "colour": {
+        "r": 99,
+        "g": 128,
+        "b": 0
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi0xMDI1NjM4NH1d/add36a62cf/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi0xMDI1NjM4NH1d/bca6333c61/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi0xMDI1NjM4NH1d/1e0dc0f0ab/Stash_TabL.png"
+    },
+    {
+      "n": "1 (Remove-only)",
+      "i": 52,
+      "id": "c0f4e16fb2d4ed1238c3d6f778feaf0ee9c6df4e7e338bc42d62b551dfce450e",
+      "type": "PremiumStash",
+      "selected": false,
+      "colour": {
+        "r": 99,
+        "g": 128,
+        "b": 0
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi0xMDI1NjM4NH1d/add36a62cf/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi0xMDI1NjM4NH1d/bca6333c61/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi0xMDI1NjM4NH1d/1e0dc0f0ab/Stash_TabL.png"
+    },
+    {
+      "n": "leveling (Remove-only)",
+      "i": 53,
+      "id": "09e255b1b02c0ca0f0eb01e52fec69f2c463e3e5ec6e355058590b1a6a08234d",
+      "type": "PremiumStash",
+      "selected": false,
+      "colour": {
+        "r": 99,
+        "g": 128,
+        "b": 0
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi0xMDI1NjM4NH1d/add36a62cf/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi0xMDI1NjM4NH1d/bca6333c61/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi0xMDI1NjM4NH1d/1e0dc0f0ab/Stash_TabL.png"
+    },
+    {
+      "n": "Essences (Remove-only)",
+      "i": 54,
+      "id": "907787743e1b7eb98f3de774a3029664baa4edcaec074aeb75d3df96fb821aed",
+      "type": "EssenceStash",
+      "selected": false,
+      "colour": {
+        "r": 44,
+        "g": 0,
+        "b": 89
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi0xMzg5MzU0M31d/a81359918a/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi0xMzg5MzU0M31d/649e0a490e/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi0xMzg5MzU0M31d/86085b5b72/Stash_TabL.png"
+    },
+    {
+      "n": "11 (Remove-only)",
+      "i": 55,
+      "id": "b583a932a0c7f88f3ba2770e290d156bb9ade36f8b247cd684a932394a385d2e",
+      "type": "PremiumStash",
+      "selected": false,
+      "colour": {
+        "r": 99,
+        "g": 128,
+        "b": 0
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi0xMDI1NjM4NH1d/add36a62cf/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi0xMDI1NjM4NH1d/bca6333c61/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi0xMDI1NjM4NH1d/1e0dc0f0ab/Stash_TabL.png"
+    },
+    {
+      "n": "Gems (Remove-only)",
+      "i": 56,
+      "id": "03bee759f90a2aab9feb5c3f181ce7900e60074c9ad20a8b90744b570150068a",
+      "type": "PremiumStash",
+      "selected": false,
+      "colour": {
+        "r": 99,
+        "g": 128,
+        "b": 0
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi0xMDI1NjM4NH1d/add36a62cf/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi0xMDI1NjM4NH1d/bca6333c61/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi0xMDI1NjM4NH1d/1e0dc0f0ab/Stash_TabL.png"
+    },
+    {
+      "n": "20 (Remove-only)",
+      "i": 57,
+      "id": "c8b6a7ccae85d9da5945c34fac5889e16d77ce0ddce6dc3ac220c1cfbfcf959c",
+      "type": "QuadStash",
+      "selected": false,
+      "colour": {
+        "r": 99,
+        "g": 128,
+        "b": 0
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi0xMDI1NjM4NH1d/add36a62cf/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi0xMDI1NjM4NH1d/bca6333c61/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi0xMDI1NjM4NH1d/1e0dc0f0ab/Stash_TabL.png"
+    },
+    {
+      "n": "gems (Remove-only)",
+      "i": 58,
+      "id": "b75da2cf49dcfe1b6d6a17c3b406449edd5eec4de4ab89dd579b64403937618c",
+      "type": "PremiumStash",
+      "selected": false,
+      "colour": {
+        "r": 99,
+        "g": 128,
+        "b": 0
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi0xMDI1NjM4NH1d/add36a62cf/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi0xMDI1NjM4NH1d/bca6333c61/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi0xMDI1NjM4NH1d/1e0dc0f0ab/Stash_TabL.png"
+    },
+    {
+      "n": "Kards (Remove-only)",
+      "i": 59,
+      "id": "caebf2d9b0a470a194e5f1862bb5544ed457a68377abea6c4213c1e402200310",
+      "type": "DivinationCardStash",
+      "selected": false,
+      "colour": {
+        "r": 136,
+        "g": 136,
+        "b": 136
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi03ODI5MzY4fV0/6d2ae96bb8/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi03ODI5MzY4fV0/bd68b73f17/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi03ODI5MzY4fV0/dedeab1e5f/Stash_TabL.png"
+    },
+    {
+      "n": "8 (Remove-only)",
+      "i": 60,
+      "id": "7e41e416637111c33bfba770cdb699d605419046c0ed1ef588e4fba825c4c6aa",
+      "type": "PremiumStash",
+      "selected": false,
+      "colour": {
+        "r": 99,
+        "g": 128,
+        "b": 0
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi0xMDI1NjM4NH1d/add36a62cf/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi0xMDI1NjM4NH1d/bca6333c61/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi0xMDI1NjM4NH1d/1e0dc0f0ab/Stash_TabL.png"
+    },
+    {
+      "n": "uniques (Remove-only)",
+      "i": 61,
+      "id": "cf0163b91447a3d415bb446c985d0661aabb3f7d945c1f4df17c2c3b8352fe49",
+      "type": "PremiumStash",
+      "selected": false,
+      "colour": {
+        "r": 99,
+        "g": 128,
+        "b": 0
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi0xMDI1NjM4NH1d/add36a62cf/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi0xMDI1NjM4NH1d/bca6333c61/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi0xMDI1NjM4NH1d/1e0dc0f0ab/Stash_TabL.png"
+    },
+    {
+      "n": "3 (Remove-only)",
+      "i": 62,
+      "id": "d003496119146883c3f246f1966a6fa3aeeb9b52fd4ba7958426632100e2bee9",
+      "type": "NormalStash",
+      "selected": false,
+      "colour": {
+        "r": 124,
+        "g": 84,
+        "b": 54
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi04NjI5MTk0fV0/10d10e4923/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi04NjI5MTk0fV0/bc028daabc/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi04NjI5MTk0fV0/6aa79009ee/Stash_TabL.png"
+    },
+    {
+      "n": "Moneyy (Remove-only)",
+      "i": 63,
+      "id": "be851fb9a2c87a93f08439d581fedaa5a8a27eb0380041c9b230a4f569e77847",
+      "type": "PremiumStash",
+      "selected": false,
+      "colour": {
+        "r": 99,
+        "g": 128,
+        "b": 0
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi0xMDI1NjM4NH1d/add36a62cf/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi0xMDI1NjM4NH1d/bca6333c61/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi0xMDI1NjM4NH1d/1e0dc0f0ab/Stash_TabL.png"
+    },
+    {
+      "n": "~b/o 1 chaos (Remove-only)",
+      "i": 64,
+      "id": "5bf8ea165a919670cfce3f3f79b9b507acb8887c06d4610583dbcea767163463",
+      "type": "PremiumStash",
+      "selected": false,
+      "colour": {
+        "r": 192,
+        "g": 128,
+        "b": 255
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi00MTYxMjgxfV0/e085b37164/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi00MTYxMjgxfV0/773b13059a/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi00MTYxMjgxfV0/9c92bb3fe6/Stash_TabL.png"
+    },
+    {
+      "n": "1 (Remove-only)",
+      "i": 65,
+      "id": "8ab7b6b4dbecb5a81bcc9b2cae09d577f3753307efa36a01add1fe04533f051f",
+      "type": "NormalStash",
+      "selected": false,
+      "colour": {
+        "r": 124,
+        "g": 84,
+        "b": 54
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi04NjI5MTk0fV0/10d10e4923/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi04NjI5MTk0fV0/bc028daabc/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi04NjI5MTk0fV0/6aa79009ee/Stash_TabL.png"
+    },
+    {
+      "n": "3 (Remove-only)",
+      "i": 66,
+      "id": "dfb317bea2e2b0acae3838798145e78f33f5477a30bb8b8ae0510adafaa3ac1d",
+      "type": "NormalStash",
+      "selected": false,
+      "colour": {
+        "r": 124,
+        "g": 84,
+        "b": 54
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi04NjI5MTk0fV0/10d10e4923/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi04NjI5MTk0fV0/bc028daabc/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi04NjI5MTk0fV0/6aa79009ee/Stash_TabL.png"
+    },
+    {
+      "n": "5 (Remove-only)",
+      "i": 67,
+      "id": "0096bc5893c74d314ede9e5b7c2c4c563a0b037861bbce6882b169a5a13ff8e3",
+      "type": "PremiumStash",
+      "selected": false,
+      "colour": {
+        "r": 99,
+        "g": 128,
+        "b": 0
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi0xMDI1NjM4NH1d/add36a62cf/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi0xMDI1NjM4NH1d/bca6333c61/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi0xMDI1NjM4NH1d/1e0dc0f0ab/Stash_TabL.png"
+    },
+    {
+      "n": "M (Remove-only)",
+      "i": 68,
+      "id": "694692a31742b0a66d653abb1e5826085e41d6b500f086771fca51b858b50c9d",
+      "type": "MapStash",
+      "selected": false,
+      "colour": {
+        "r": 191,
+        "g": 245,
+        "b": 0
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi00MTk3MTIwfV0/8f6544fa40/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi00MTk3MTIwfV0/97efbc0e99/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi00MTk3MTIwfV0/093ba5bbf0/Stash_TabL.png"
+    },
+    {
+      "n": "2 (Remove-only)",
+      "i": 69,
+      "id": "0eb7b6d90cf3677aa0abe76156164f6d0e1e2d72fc7003993e3916b95f68da8b",
+      "type": "NormalStash",
+      "selected": false,
+      "colour": {
+        "r": 124,
+        "g": 84,
+        "b": 54
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi04NjI5MTk0fV0/10d10e4923/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi04NjI5MTk0fV0/bc028daabc/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi04NjI5MTk0fV0/6aa79009ee/Stash_TabL.png"
+    },
+    {
+      "n": "£$£ (Remove-only)",
+      "i": 70,
+      "id": "40f43bb3cce947bb9c02f714c9e0eb5ea2e34450d6e485f3884c5834bc45a1b7",
+      "type": "CurrencyStash",
+      "selected": false,
+      "colour": {
+        "r": 191,
+        "g": 94,
+        "b": 0
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi00MjM1Nzc2fV0/b8a88fb564/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi00MjM1Nzc2fV0/be2de19940/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi00MjM1Nzc2fV0/410809a5c6/Stash_TabL.png"
+    },
+    {
+      "n": "3 (Remove-only)",
+      "i": 71,
+      "id": "1b9ef08fbc9d17f5110819d4189a21961ed174732ed787aaf2ae16721e7b888f",
+      "type": "NormalStash",
+      "selected": false,
+      "colour": {
+        "r": 124,
+        "g": 84,
+        "b": 54
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi04NjI5MTk0fV0/10d10e4923/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi04NjI5MTk0fV0/bc028daabc/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi04NjI5MTk0fV0/6aa79009ee/Stash_TabL.png"
+    },
+    {
+      "n": "CR (Remove-only)",
+      "i": 72,
+      "id": "588952beb1b71627fe571125d3ef800dc8a3f28c1b54f29c8cc5dac8f32b4c3a",
+      "type": "PremiumStash",
+      "selected": false,
+      "colour": {
+        "r": 99,
+        "g": 128,
+        "b": 0
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi0xMDI1NjM4NH1d/add36a62cf/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi0xMDI1NjM4NH1d/bca6333c61/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi0xMDI1NjM4NH1d/1e0dc0f0ab/Stash_TabL.png"
+    },
+    {
+      "n": "C REC (Remove-only)",
+      "i": 73,
+      "id": "0221e6050914f3a50ae50ca123e44a45b72b0b15fdd9ac085ea3d83904a9adfd",
+      "type": "QuadStash",
+      "selected": false,
+      "colour": {
+        "r": 99,
+        "g": 128,
+        "b": 0
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi0xMDI1NjM4NH1d/add36a62cf/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi0xMDI1NjM4NH1d/bca6333c61/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi0xMDI1NjM4NH1d/1e0dc0f0ab/Stash_TabL.png"
+    },
+    {
+      "n": "4 (Remove-only)",
+      "i": 74,
+      "id": "81cde90a6866e8a73d7325930736a4127e2778766d698b1942683b30c7d7d8c7",
+      "type": "NormalStash",
+      "selected": false,
+      "colour": {
+        "r": 124,
+        "g": 84,
+        "b": 54
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi04NjI5MTk0fV0/10d10e4923/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi04NjI5MTk0fV0/bc028daabc/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi04NjI5MTk0fV0/6aa79009ee/Stash_TabL.png"
+    },
+    {
+      "n": "Weapons (Remove-only)",
+      "i": 75,
+      "id": "d3c5a84f0558214aeb64803c5cf0dc036b76e1a7b0ce1b6f1e90625928e6de9f",
+      "type": "PremiumStash",
+      "selected": false,
+      "colour": {
+        "r": 99,
+        "g": 128,
+        "b": 0
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi0xMDI1NjM4NH1d/add36a62cf/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi0xMDI1NjM4NH1d/bca6333c61/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi0xMDI1NjM4NH1d/1e0dc0f0ab/Stash_TabL.png"
+    },
+    {
+      "n": "Maps (Remove-only)",
+      "i": 76,
+      "id": "0e3b1327e12d34fa68339fe75b3ed36575cc83eb7100cbcbd1252eb14d4cdf1c",
+      "type": "MapStash",
+      "selected": false,
+      "colour": {
+        "r": 191,
+        "g": 0,
+        "b": 0
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi00MjU5ODQwfV0/cc64d967fb/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi00MjU5ODQwfV0/8e5ec47efe/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi00MjU5ODQwfV0/ff3a937d2d/Stash_TabL.png"
+    },
+    {
+      "n": "Jewels (Remove-only)",
+      "i": 77,
+      "id": "5a5e1a48ba382ea1e8c2f04ff78291a2c0ec6572aa10ee2b40779273214850c9",
+      "type": "PremiumStash",
+      "selected": false,
+      "colour": {
+        "r": 99,
+        "g": 128,
+        "b": 0
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi0xMDI1NjM4NH1d/add36a62cf/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi0xMDI1NjM4NH1d/bca6333c61/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi0xMDI1NjM4NH1d/1e0dc0f0ab/Stash_TabL.png"
+    },
+    {
+      "n": "2 (Remove-only)",
+      "i": 78,
+      "id": "8b65c296d0f5ff285b297742239e6c63c8e215f58c5095116a0fa71c51cde073",
+      "type": "NormalStash",
+      "selected": false,
+      "colour": {
+        "r": 124,
+        "g": 84,
+        "b": 54
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi04NjI5MTk0fV0/10d10e4923/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi04NjI5MTk0fV0/bc028daabc/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi04NjI5MTk0fV0/6aa79009ee/Stash_TabL.png"
+    },
+    {
+      "n": "Gloves (Remove-only)",
+      "i": 79,
+      "id": "3522ae6b27495b3cf85fc306fbd49d7e17da8c8acfb4e0660e8ead49acb96c21",
+      "type": "PremiumStash",
+      "selected": false,
+      "colour": {
+        "r": 99,
+        "g": 128,
+        "b": 0
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi0xMDI1NjM4NH1d/add36a62cf/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi0xMDI1NjM4NH1d/bca6333c61/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi0xMDI1NjM4NH1d/1e0dc0f0ab/Stash_TabL.png"
+    },
+    {
+      "n": "Chaos Recipe (Remove-only)",
+      "i": 80,
+      "id": "4d3b6451cc072c29d4469faee20f7bcd4d8810e458a78b9de216e02c55b472fa",
+      "type": "PremiumStash",
+      "selected": false,
+      "colour": {
+        "r": 99,
+        "g": 128,
+        "b": 0
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi0xMDI1NjM4NH1d/add36a62cf/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi0xMDI1NjM4NH1d/bca6333c61/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi0xMDI1NjM4NH1d/1e0dc0f0ab/Stash_TabL.png"
+    },
+    {
+      "n": "E (Remove-only)",
+      "i": 81,
+      "id": "0ab84695efda76d5c14c6b2738d28cb38d52ee17b04f90f883f1bf772482bf39",
+      "type": "EssenceStash",
+      "selected": false,
+      "colour": {
+        "r": 44,
+        "g": 0,
+        "b": 89
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi0xMzg5MzU0M31d/a81359918a/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi0xMzg5MzU0M31d/649e0a490e/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi0xMzg5MzU0M31d/86085b5b72/Stash_TabL.png"
+    },
+    {
+      "n": "Belts (Remove-only)",
+      "i": 82,
+      "id": "a1afdcc3c35eec5d0aa7dcca1e6bc8ba78a59e51f7f17bd08e02f9a72eaeddb5",
+      "type": "PremiumStash",
+      "selected": false,
+      "colour": {
+        "r": 99,
+        "g": 128,
+        "b": 0
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi0xMDI1NjM4NH1d/add36a62cf/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi0xMDI1NjM4NH1d/bca6333c61/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi0xMDI1NjM4NH1d/1e0dc0f0ab/Stash_TabL.png"
+    },
+    {
+      "n": "Boots (Remove-only)",
+      "i": 83,
+      "id": "ab3c2256140c5228911880100ee30d9e232ed66e7ce17cf2e10d68d3fd7c1233",
+      "type": "PremiumStash",
+      "selected": false,
+      "colour": {
+        "r": 99,
+        "g": 128,
+        "b": 0
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi0xMDI1NjM4NH1d/add36a62cf/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi0xMDI1NjM4NH1d/bca6333c61/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi0xMDI1NjM4NH1d/1e0dc0f0ab/Stash_TabL.png"
+    },
+    {
+      "n": "Currency (Remove-only)",
+      "i": 84,
+      "id": "6f06e98e42e4114ba92258c84b1315c6aff58cbdc55beb0ebd3027c1576d71f3",
+      "type": "CurrencyStash",
+      "selected": false,
+      "colour": {
+        "r": 191,
+        "g": 94,
+        "b": 0
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi00MjM1Nzc2fV0/b8a88fb564/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi00MjM1Nzc2fV0/be2de19940/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi00MjM1Nzc2fV0/410809a5c6/Stash_TabL.png"
+    },
+    {
+      "n": "D2 (Remove-only)",
+      "i": 85,
+      "id": "e7eb7498cbb3b577e1b08550c8d198c37197320c9168956f9ab2113b3c8b3a63",
+      "type": "PremiumStash",
+      "selected": false,
+      "colour": {
+        "r": 191,
+        "g": 0,
+        "b": 0
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi00MjU5ODQwfV0/cc64d967fb/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi00MjU5ODQwfV0/8e5ec47efe/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi00MjU5ODQwfV0/ff3a937d2d/Stash_TabL.png"
+    },
+    {
+      "n": "13 (Remove-only)",
+      "i": 86,
+      "id": "cc7c49f25e14473f54fa00b7626b8b81c32d4b177ae878828942eace77560b46",
+      "type": "PremiumStash",
+      "selected": false,
+      "colour": {
+        "r": 99,
+        "g": 128,
+        "b": 0
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi0xMDI1NjM4NH1d/add36a62cf/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi0xMDI1NjM4NH1d/bca6333c61/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi0xMDI1NjM4NH1d/1e0dc0f0ab/Stash_TabL.png"
+    },
+    {
+      "n": "15 (Remove-only)",
+      "i": 87,
+      "id": "d525d246073c80121dd5887e3b815e27dc28a092445e3d4aa36ed998cd53983c",
+      "type": "PremiumStash",
+      "selected": false,
+      "colour": {
+        "r": 99,
+        "g": 128,
+        "b": 0
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi0xMDI1NjM4NH1d/add36a62cf/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi0xMDI1NjM4NH1d/bca6333c61/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi0xMDI1NjM4NH1d/1e0dc0f0ab/Stash_TabL.png"
+    },
+    {
+      "n": "Kards (Remove-only)",
+      "i": 88,
+      "id": "e91161473885be40a0379248642cf7016c57ca8bd18a2ad3c53ea7428a7a26d4",
+      "type": "DivinationCardStash",
+      "selected": false,
+      "colour": {
+        "r": 255,
+        "g": 213,
+        "b": 0
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi0xMTAwOH1d/23e6877060/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi0xMTAwOH1d/d9a8d017f0/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi0xMTAwOH1d/2c8f779dfb/Stash_TabL.png"
+    },
+    {
+      "n": "20 (Remove-only)",
+      "i": 89,
+      "id": "079a76854bca39507c1fad92d0382bdaf0b6e2fdaa138b2c48888e5f79826335",
+      "type": "QuadStash",
+      "selected": false,
+      "colour": {
+        "r": 99,
+        "g": 128,
+        "b": 0
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi0xMDI1NjM4NH1d/add36a62cf/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi0xMDI1NjM4NH1d/bca6333c61/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi0xMDI1NjM4NH1d/1e0dc0f0ab/Stash_TabL.png"
+    },
+    {
+      "n": "C Recipe (Remove-only)",
+      "i": 90,
+      "id": "184c36b21c59c863257ad19fe7a393e1935bc36f1af1e1f2873990d36b9fa6cd",
+      "type": "PremiumStash",
+      "selected": false,
+      "colour": {
+        "r": 99,
+        "g": 128,
+        "b": 0
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi0xMDI1NjM4NH1d/add36a62cf/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi0xMDI1NjM4NH1d/bca6333c61/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi0xMDI1NjM4NH1d/1e0dc0f0ab/Stash_TabL.png"
+    },
+    {
+      "n": "Map (Remove-only)",
+      "i": 91,
+      "id": "e5e880fcde9c9c18f2b7b9c24b6089f6605c3320cf2f9e490fce446acf445c1e",
+      "type": "MapStash",
+      "selected": false,
+      "colour": {
+        "r": 128,
+        "g": 179,
+        "b": 255
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi04MzQyNTI5fV0/c95b580a6c/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi04MzQyNTI5fV0/7cc45803af/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi04MzQyNTI5fV0/981fc3f352/Stash_TabL.png"
+    },
+    {
+      "n": "4 (Remove-only)",
+      "i": 92,
+      "id": "14f5517be65b55fc57650c623c3db710a7d4a55acc3693339edd70cc00c36fcc",
+      "type": "NormalStash",
+      "selected": false,
+      "colour": {
+        "r": 124,
+        "g": 84,
+        "b": 54
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi04NjI5MTk0fV0/10d10e4923/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi04NjI5MTk0fV0/bc028daabc/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi04NjI5MTk0fV0/6aa79009ee/Stash_TabL.png"
+    },
+    {
+      "n": "1 (Remove-only)",
+      "i": 93,
+      "id": "8fb414b44ef995c53168e2578de32e9ac47f08d8c685ffb374d307d02c62fd8d",
+      "type": "NormalStash",
+      "selected": false,
+      "colour": {
+        "r": 124,
+        "g": 84,
+        "b": 54
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi04NjI5MTk0fV0/10d10e4923/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi04NjI5MTk0fV0/bc028daabc/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi04NjI5MTk0fV0/6aa79009ee/Stash_TabL.png"
+    },
+    {
+      "n": "1 (Remove-only)",
+      "i": 94,
+      "id": "0d73f726394717018a399255aadaccef99ab304c9a8fe475b14ab604bdbc51bf",
+      "type": "NormalStash",
+      "selected": false,
+      "colour": {
+        "r": 124,
+        "g": 84,
+        "b": 54
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi04NjI5MTk0fV0/10d10e4923/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi04NjI5MTk0fV0/bc028daabc/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi04NjI5MTk0fV0/6aa79009ee/Stash_TabL.png"
+    },
+    {
+      "n": "Essences (Remove-only)",
+      "i": 95,
+      "id": "18fabcd438bbeefd5919226bf3eb911deb72128947790a69dfc2d01e13a602d0",
+      "type": "EssenceStash",
+      "selected": false,
+      "colour": {
+        "r": 44,
+        "g": 0,
+        "b": 89
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi0xMzg5MzU0M31d/a81359918a/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi0xMzg5MzU0M31d/649e0a490e/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi0xMzg5MzU0M31d/86085b5b72/Stash_TabL.png"
+    },
+    {
+      "n": "currency-cards",
+      "i": 96,
+      "id": "7a7f693153f96747f8ef5b9237a43ca27f27292e56f8099ee2c08327daa642a8",
+      "type": "PremiumStash",
+      "selected": false,
+      "colour": {
+        "r": 99,
+        "g": 128,
+        "b": 0
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi0xMDI1NjM4NH1d/add36a62cf/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi0xMDI1NjM4NH1d/bca6333c61/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi0xMDI1NjM4NH1d/1e0dc0f0ab/Stash_TabL.png"
+    },
+    {
+      "n": "7 (Remove-only)",
+      "i": 97,
+      "id": "9c9ad96586b2b90a8db6ab016a4aa7b52dcbd05c141663af9a36b0ca15849469",
+      "type": "PremiumStash",
+      "selected": false,
+      "colour": {
+        "r": 99,
+        "g": 128,
+        "b": 0
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi0xMDI1NjM4NH1d/add36a62cf/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi0xMDI1NjM4NH1d/bca6333c61/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi0xMDI1NjM4NH1d/1e0dc0f0ab/Stash_TabL.png"
+    },
+    {
+      "n": "$ (Remove-only)",
+      "i": 98,
+      "id": "80830c08126e2691a0684ea7497978731f96fb84c9f622013bce6e59b4c7194d",
+      "type": "CurrencyStash",
+      "selected": false,
+      "colour": {
+        "r": 221,
+        "g": 221,
+        "b": 221
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi0yMjM2OTYzfV0/839620a564/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi0yMjM2OTYzfV0/e6a1df0898/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi0yMjM2OTYzfV0/1cc0d93243/Stash_TabL.png"
+    },
+    {
+      "n": "Uniques (Remove-only)",
+      "i": 99,
+      "id": "328dab98e16e3a3c271feaf8c48888dcf008f073a9f78911c9143579d2689644",
+      "type": "PremiumStash",
+      "selected": false,
+      "colour": {
+        "r": 89,
+        "g": 0,
+        "b": 0
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi0xMDk0NDUxMn1d/2e64348e45/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi0xMDk0NDUxMn1d/5c8a57aedb/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi0xMDk0NDUxMn1d/654fab7997/Stash_TabL.png"
+    },
+    {
+      "n": "2 (Remove-only)",
+      "i": 100,
+      "id": "c12d84a7c22f1b150178ddcc9dd8346f6ce477ad8cb7b5a2f990357984048964",
+      "type": "NormalStash",
+      "selected": false,
+      "colour": {
+        "r": 124,
+        "g": 84,
+        "b": 54
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi04NjI5MTk0fV0/10d10e4923/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi04NjI5MTk0fV0/bc028daabc/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi04NjI5MTk0fV0/6aa79009ee/Stash_TabL.png"
+    },
+    {
+      "n": "3 (Remove-only)",
+      "i": 101,
+      "id": "1bab9e2b8efbd63b73516cf0197784337536a0a285a6fc59672e706de9280be4",
+      "type": "NormalStash",
+      "selected": false,
+      "colour": {
+        "r": 124,
+        "g": 84,
+        "b": 54
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi04NjI5MTk0fV0/10d10e4923/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi04NjI5MTk0fV0/bc028daabc/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi04NjI5MTk0fV0/6aa79009ee/Stash_TabL.png"
+    },
+    {
+      "n": "11 (Remove-only)",
+      "i": 102,
+      "id": "8d939b004f5ab9de01a9d7d12bbb13739ea4813f1a14fbe6f924211281e906c9",
+      "type": "PremiumStash",
+      "selected": false,
+      "colour": {
+        "r": 99,
+        "g": 128,
+        "b": 0
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi0xMDI1NjM4NH1d/add36a62cf/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi0xMDI1NjM4NH1d/bca6333c61/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi0xMDI1NjM4NH1d/1e0dc0f0ab/Stash_TabL.png"
+    },
+    {
+      "n": "Gems (Remove-only)",
+      "i": 103,
+      "id": "ec8e6b6c29bfb7e5d89083166d34169e645b834d9841084dd55ba9c8dc347a51",
+      "type": "PremiumStash",
+      "selected": false,
+      "colour": {
+        "r": 255,
+        "g": 213,
+        "b": 0
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi0xMTAwOH1d/23e6877060/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi0xMTAwOH1d/d9a8d017f0/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi0xMTAwOH1d/2c8f779dfb/Stash_TabL.png"
+    },
+    {
+      "n": "4 (Remove-only)",
+      "i": 104,
+      "id": "32cbf1b4f131fb663e54a359b0dfdce8e4e159338a93a8b51577aac56afaf822",
+      "type": "NormalStash",
+      "selected": false,
+      "colour": {
+        "r": 124,
+        "g": 84,
+        "b": 54
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi04NjI5MTk0fV0/10d10e4923/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi04NjI5MTk0fV0/bc028daabc/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi04NjI5MTk0fV0/6aa79009ee/Stash_TabL.png"
+    },
+    {
+      "n": "C Recipe (Remove-only)",
+      "i": 105,
+      "id": "e9890429097ee7b9f20008638079604c407c6443afe62b088892950ca9dfaf0d",
+      "type": "PremiumStash",
+      "selected": false,
+      "colour": {
+        "r": 99,
+        "g": 128,
+        "b": 0
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi0xMDI1NjM4NH1d/add36a62cf/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi0xMDI1NjM4NH1d/bca6333c61/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi0xMDI1NjM4NH1d/1e0dc0f0ab/Stash_TabL.png"
+    },
+    {
+      "n": "AB (Remove-only)",
+      "i": 106,
+      "id": "de586498c8fee03e4ca90d7cbffacfb268f094b505edb8e09f111e6b52465278",
+      "type": "PremiumStash",
+      "selected": false,
+      "colour": {
+        "r": 50,
+        "g": 50,
+        "b": 50
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi0xMzQ4NzU2Nn1d/0ce8f75b7c/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi0xMzQ4NzU2Nn1d/4470380632/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi0xMzQ4NzU2Nn1d/b85f086896/Stash_TabL.png"
+    },
+    {
+      "n": "Kards (Remove-only)",
+      "i": 107,
+      "id": "b6d59503e4c440fa9efdcbc7ee0ba15a7495b24e5f6f845da96980a1ebeaf8ba",
+      "type": "DivinationCardStash",
+      "selected": false,
+      "colour": {
+        "r": 89,
+        "g": 0,
+        "b": 0
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi0xMDk0NDUxMn1d/2e64348e45/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi0xMDk0NDUxMn1d/5c8a57aedb/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi0xMDk0NDUxMn1d/654fab7997/Stash_TabL.png"
+    },
+    {
+      "n": "KARDS",
+      "i": 108,
+      "id": "0f06251ee8dca89cdf5daf66976540395a69a5c90499383c97a88c72e4418109",
+      "type": "DivinationCardStash",
+      "selected": false,
+      "colour": {
+        "r": 99,
+        "g": 128,
+        "b": 0
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi0xMDI1NjM4NH1d/add36a62cf/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi0xMDI1NjM4NH1d/bca6333c61/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi0xMDI1NjM4NH1d/1e0dc0f0ab/Stash_TabL.png"
+    },
+    {
+      "n": "5 (Remove-only)",
+      "i": 109,
+      "id": "0e06ff901aec4c5379295b9263e105fd045499056665e7608a75196d9e319250",
+      "type": "PremiumStash",
+      "selected": false,
+      "colour": {
+        "r": 99,
+        "g": 128,
+        "b": 0
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi0xMDI1NjM4NH1d/add36a62cf/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi0xMDI1NjM4NH1d/bca6333c61/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi0xMDI1NjM4NH1d/1e0dc0f0ab/Stash_TabL.png"
+    },
+    {
+      "n": "1 (Remove-only)",
+      "i": 110,
+      "id": "73a8733a433ac71cbc052f235fb769742148ce90f63f7ff49af1bc98264b53f2",
+      "type": "NormalStash",
+      "selected": false,
+      "colour": {
+        "r": 124,
+        "g": 84,
+        "b": 54
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi04NjI5MTk0fV0/10d10e4923/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi04NjI5MTk0fV0/bc028daabc/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi04NjI5MTk0fV0/6aa79009ee/Stash_TabL.png"
+    },
+    {
+      "n": "Essences (Remove-only)",
+      "i": 111,
+      "id": "e23344507232c88114b9917d6481e2cc39ad8d87c0cab98bc211ac40ab4b57ec",
+      "type": "EssenceStash",
+      "selected": false,
+      "colour": {
+        "r": 0,
+        "g": 0,
+        "b": 128
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi0xNjc3NzA4OH1d/8ff0e88292/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi0xNjc3NzA4OH1d/5af07046ab/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi0xNjc3NzA4OH1d/be4d4fb3d7/Stash_TabL.png"
+    },
+    {
+      "n": "6 (Remove-only)",
+      "i": 112,
+      "id": "beb84a83fd929835f2ca6d38037e244817de0be1726d123ffd913a71a06391a4",
+      "type": "PremiumStash",
+      "selected": false,
+      "colour": {
+        "r": 99,
+        "g": 128,
+        "b": 0
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi0xMDI1NjM4NH1d/add36a62cf/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi0xMDI1NjM4NH1d/bca6333c61/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi0xMDI1NjM4NH1d/1e0dc0f0ab/Stash_TabL.png"
+    },
+    {
+      "n": "2 (Remove-only)",
+      "i": 113,
+      "id": "1b3a4f5f6f6872ff9a5227513243ad2c84ac958c1f81e37b4230d0afd8cc57a1",
+      "type": "NormalStash",
+      "selected": false,
+      "colour": {
+        "r": 124,
+        "g": 84,
+        "b": 54
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi04NjI5MTk0fV0/10d10e4923/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi04NjI5MTk0fV0/bc028daabc/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi04NjI5MTk0fV0/6aa79009ee/Stash_TabL.png"
+    },
+    {
+      "n": "CASH (Remove-only)",
+      "i": 114,
+      "id": "0c5d90c0f544f1d23816bf4c7bac2597c4644d6a78f2e4e1e1ebab44005fe279",
+      "type": "CurrencyStash",
+      "selected": false,
+      "colour": {
+        "r": 99,
+        "g": 128,
+        "b": 0
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi0xMDI1NjM4NH1d/add36a62cf/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi0xMDI1NjM4NH1d/bca6333c61/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi0xMDI1NjM4NH1d/1e0dc0f0ab/Stash_TabL.png"
+    },
+    {
+      "n": "Fossils (Remove-only)",
+      "i": 115,
+      "id": "aab1c411f8cf194ef2179b24c75a4b1b47222b1f450fe76f9706a726f24098f3",
+      "type": "PremiumStash",
+      "selected": false,
+      "colour": {
+        "r": 255,
+        "g": 170,
+        "b": 0
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi0yMjAxNn1d/317f9d2d8c/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi0yMjAxNn1d/c06c5980a6/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi0yMjAxNn1d/9a7ac3c720/Stash_TabL.png"
+    },
+    {
+      "n": "1CR (Remove-only)",
+      "i": 116,
+      "id": "2173914d8d0643d021e79e20fb594e60d46c681684d59d973f938728e2a7d9d0",
+      "type": "PremiumStash",
+      "selected": false,
+      "colour": {
+        "r": 99,
+        "g": 128,
+        "b": 0
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi0xMDI1NjM4NH1d/add36a62cf/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi0xMDI1NjM4NH1d/bca6333c61/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi0xMDI1NjM4NH1d/1e0dc0f0ab/Stash_TabL.png"
+    },
+    {
+      "n": "1 (Remove-only)",
+      "i": 117,
+      "id": "9cbc9b6da5533b67cb4c076f97ca28cc209d6ce504fc35d1f28f42936855647e",
+      "type": "NormalStash",
+      "selected": false,
+      "colour": {
+        "r": 124,
+        "g": 84,
+        "b": 54
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi04NjI5MTk0fV0/10d10e4923/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi04NjI5MTk0fV0/bc028daabc/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi04NjI5MTk0fV0/6aa79009ee/Stash_TabL.png"
+    },
+    {
+      "n": "3 (Remove-only)",
+      "i": 118,
+      "id": "7fd4eefebcdb16cb729d68da50151abc88b9c82cd92689f8fd9b6737060372cb",
+      "type": "NormalStash",
+      "selected": false,
+      "colour": {
+        "r": 124,
+        "g": 84,
+        "b": 54
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi04NjI5MTk0fV0/10d10e4923/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi04NjI5MTk0fV0/bc028daabc/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi04NjI5MTk0fV0/6aa79009ee/Stash_TabL.png"
+    },
+    {
+      "n": "M (Remove-only)",
+      "i": 119,
+      "id": "b852ff20b91274d2359c81609edca988844a2defda2eea23c5e16e2ae3440026",
+      "type": "MapStash",
+      "selected": false,
+      "colour": {
+        "r": 89,
+        "g": 0,
+        "b": 0
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi0xMDk0NDUxMn1d/2e64348e45/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi0xMDk0NDUxMn1d/5c8a57aedb/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi0xMDk0NDUxMn1d/654fab7997/Stash_TabL.png"
+    },
+    {
+      "n": "4 (Remove-only)",
+      "i": 120,
+      "id": "5f0c7d7e028780899af2bbad6d3e7eba0c732416a209bffbb31de74845b4d876",
+      "type": "NormalStash",
+      "selected": false,
+      "colour": {
+        "r": 124,
+        "g": 84,
+        "b": 54
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi04NjI5MTk0fV0/10d10e4923/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi04NjI5MTk0fV0/bc028daabc/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi04NjI5MTk0fV0/6aa79009ee/Stash_TabL.png"
+    },
+    {
+      "n": "12 (Remove-only)",
+      "i": 121,
+      "id": "6bb84440fcc517c4ac34b7c0c870862d3aaf4025d991bf2ab29e3f34218161d3",
+      "type": "PremiumStash",
+      "selected": false,
+      "colour": {
+        "r": 99,
+        "g": 128,
+        "b": 0
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi0xMDI1NjM4NH1d/add36a62cf/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi0xMDI1NjM4NH1d/bca6333c61/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi0xMDI1NjM4NH1d/1e0dc0f0ab/Stash_TabL.png"
+    },
+    {
+      "n": "Gems (Remove-only)",
+      "i": 122,
+      "id": "f9bbfdb7fa5deb934fca90f9e64276762c3ff156798c8e50e208cf04418117b4",
+      "type": "PremiumStash",
+      "selected": false,
+      "colour": {
+        "r": 221,
+        "g": 221,
+        "b": 221
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi0yMjM2OTYzfV0/839620a564/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi0yMjM2OTYzfV0/e6a1df0898/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi0yMjM2OTYzfV0/1cc0d93243/Stash_TabL.png"
+    },
+    {
+      "n": "Helmets (Remove-only)",
+      "i": 123,
+      "id": "83d52bee1ce66699d7b5d77b5ebf6a38ded48398fa68aa02c339d15443976284",
+      "type": "PremiumStash",
+      "selected": false,
+      "colour": {
+        "r": 191,
+        "g": 245,
+        "b": 0
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi00MTk3MTIwfV0/8f6544fa40/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi00MTk3MTIwfV0/97efbc0e99/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi00MTk3MTIwfV0/093ba5bbf0/Stash_TabL.png"
+    },
+    {
+      "n": "2 (Remove-only)",
+      "i": 124,
+      "id": "eac23adeac4efa4b23f175614eeeb9719716650fc9ee9ad88c7cd258d0ed7a8d",
+      "type": "NormalStash",
+      "selected": false,
+      "colour": {
+        "r": 124,
+        "g": 84,
+        "b": 54
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi04NjI5MTk0fV0/10d10e4923/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi04NjI5MTk0fV0/bc028daabc/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi04NjI5MTk0fV0/6aa79009ee/Stash_TabL.png"
+    },
+    {
+      "n": "5 (Remove-only)",
+      "i": 125,
+      "id": "891178913d1097c1a69d2939a9f01969d4826e6301740a93b244f47ca7571cbf",
+      "type": "PremiumStash",
+      "selected": false,
+      "colour": {
+        "r": 99,
+        "g": 128,
+        "b": 0
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi0xMDI1NjM4NH1d/add36a62cf/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi0xMDI1NjM4NH1d/bca6333c61/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi0xMDI1NjM4NH1d/1e0dc0f0ab/Stash_TabL.png"
+    },
+    {
+      "n": "Weapons (Remove-only)",
+      "i": 126,
+      "id": "dadcbd0a6892ff267d6a17667ec0b463d3e6e5737ee55ea4aa0e42651bbe3306",
+      "type": "PremiumStash",
+      "selected": false,
+      "colour": {
+        "r": 191,
+        "g": 245,
+        "b": 0
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi00MTk3MTIwfV0/8f6544fa40/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi00MTk3MTIwfV0/97efbc0e99/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi00MTk3MTIwfV0/093ba5bbf0/Stash_TabL.png"
+    },
+    {
+      "n": "Gloves (Remove-only)",
+      "i": 127,
+      "id": "7986bc46ccad5ea7497647b1b781a209a730d504486eee66a495e5477c33d3eb",
+      "type": "PremiumStash",
+      "selected": false,
+      "colour": {
+        "r": 99,
+        "g": 128,
+        "b": 0
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi0xMDI1NjM4NH1d/add36a62cf/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi0xMDI1NjM4NH1d/bca6333c61/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi0xMDI1NjM4NH1d/1e0dc0f0ab/Stash_TabL.png"
+    },
+    {
+      "n": "5 (Remove-only)",
+      "i": 128,
+      "id": "09e56c1643b42bc623800245e97b1a25bbda4680aa2c6eaf6f606737963f49f1",
+      "type": "PremiumStash",
+      "selected": false,
+      "colour": {
+        "r": 99,
+        "g": 128,
+        "b": 0
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi0xMDI1NjM4NH1d/add36a62cf/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi0xMDI1NjM4NH1d/bca6333c61/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi0xMDI1NjM4NH1d/1e0dc0f0ab/Stash_TabL.png"
+    },
+    {
+      "n": "8 (Remove-only)",
+      "i": 129,
+      "id": "bae0a21287dbe1d8e3a5c0265aaf9ab6aba6d381759fa8385c5b563306e67557",
+      "type": "PremiumStash",
+      "selected": false,
+      "colour": {
+        "r": 99,
+        "g": 128,
+        "b": 0
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi0xMDI1NjM4NH1d/add36a62cf/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi0xMDI1NjM4NH1d/bca6333c61/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi0xMDI1NjM4NH1d/1e0dc0f0ab/Stash_TabL.png"
+    },
+    {
+      "n": "Maps (Remove-only)",
+      "i": 130,
+      "id": "df5deafa615c657ea78bfd15781dc926e96677b8f7a65d953662f2756276e63c",
+      "type": "MapStash",
+      "selected": false,
+      "colour": {
+        "r": 89,
+        "g": 0,
+        "b": 0
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi0xMDk0NDUxMn1d/2e64348e45/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi0xMDk0NDUxMn1d/5c8a57aedb/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi0xMDk0NDUxMn1d/654fab7997/Stash_TabL.png"
+    },
+    {
+      "n": "Belts (Remove-only)",
+      "i": 131,
+      "id": "79ead57b691404b04cd10312e3db8c9f2e9e5fb2f2a01933d85ac08542c9e841",
+      "type": "PremiumStash",
+      "selected": false,
+      "colour": {
+        "r": 136,
+        "g": 136,
+        "b": 136
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi03ODI5MzY4fV0/6d2ae96bb8/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi03ODI5MzY4fV0/bd68b73f17/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi03ODI5MzY4fV0/dedeab1e5f/Stash_TabL.png"
+    },
+    {
+      "n": "13 (Remove-only)",
+      "i": 132,
+      "id": "6820d397816325089cb9f6113a9c53c8354627e1504261aae3d05ccedc3582b5",
+      "type": "PremiumStash",
+      "selected": false,
+      "colour": {
+        "r": 99,
+        "g": 128,
+        "b": 0
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi0xMDI1NjM4NH1d/add36a62cf/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi0xMDI1NjM4NH1d/bca6333c61/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi0xMDI1NjM4NH1d/1e0dc0f0ab/Stash_TabL.png"
+    },
+    {
+      "n": "Cold Dot (Remove-only)",
+      "i": 133,
+      "id": "ae0c009c6b3e73a7903ca07fdebfb8d9830a981178e6541b5bc607da317f8bce",
+      "type": "PremiumStash",
+      "selected": false,
+      "colour": {
+        "r": 99,
+        "g": 128,
+        "b": 0
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi0xMDI1NjM4NH1d/add36a62cf/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi0xMDI1NjM4NH1d/bca6333c61/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi0xMDI1NjM4NH1d/1e0dc0f0ab/Stash_TabL.png"
+    },
+    {
+      "n": "KARDS (Remove-only)",
+      "i": 134,
+      "id": "ef15b738f143f3d176cc687979ce450c3f264618305441a4223f31e63568a807",
+      "type": "DivinationCardStash",
+      "selected": false,
+      "colour": {
+        "r": 99,
+        "g": 128,
+        "b": 0
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi0xMDI1NjM4NH1d/add36a62cf/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi0xMDI1NjM4NH1d/bca6333c61/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi0xMDI1NjM4NH1d/1e0dc0f0ab/Stash_TabL.png"
+    },
+    {
+      "n": "Boots (Remove-only)",
+      "i": 135,
+      "id": "18984a162bbf69661f859ed45955e3cd10e4db5b2270b29dcdd6498e2274589a",
+      "type": "PremiumStash",
+      "selected": false,
+      "colour": {
+        "r": 191,
+        "g": 94,
+        "b": 0
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi00MjM1Nzc2fV0/b8a88fb564/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi00MjM1Nzc2fV0/be2de19940/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi00MjM1Nzc2fV0/410809a5c6/Stash_TabL.png"
+    },
+    {
+      "n": "Body (Remove-only)",
+      "i": 136,
+      "id": "9df480520c4bd190b1ced5dc246c10bd23a0ad79377aced97368cb6e1e2c987f",
+      "type": "PremiumStash",
+      "selected": false,
+      "colour": {
+        "r": 255,
+        "g": 213,
+        "b": 0
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi0xMTAwOH1d/23e6877060/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi0xMTAwOH1d/d9a8d017f0/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi0xMTAwOH1d/2c8f779dfb/Stash_TabL.png"
+    },
+    {
+      "n": "15 (Remove-only)",
+      "i": 137,
+      "id": "a2cbc057e5f0aa8674e2c73958a32379feeccb38cd264f8abbe59044cb6fbacc",
+      "type": "PremiumStash",
+      "selected": false,
+      "colour": {
+        "r": 99,
+        "g": 128,
+        "b": 0
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi0xMDI1NjM4NH1d/add36a62cf/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi0xMDI1NjM4NH1d/bca6333c61/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi0xMDI1NjM4NH1d/1e0dc0f0ab/Stash_TabL.png"
+    },
+    {
+      "n": "1 (Remove-only)",
+      "i": 138,
+      "id": "14b3ced3dc3957ad0ac5c98d93d65c231004d1a9006390fcb19b0be0e4dfa47e",
+      "type": "NormalStash",
+      "selected": false,
+      "colour": {
+        "r": 124,
+        "g": 84,
+        "b": 54
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi04NjI5MTk0fV0/10d10e4923/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi04NjI5MTk0fV0/bc028daabc/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi04NjI5MTk0fV0/6aa79009ee/Stash_TabL.png"
+    },
+    {
+      "n": "1 (Remove-only)",
+      "i": 139,
+      "id": "a4558518b13e7fd586fabab84fdb4ca6f75e944a9de477d2f968c9bd0cd4b516",
+      "type": "NormalStash",
+      "selected": false,
+      "colour": {
+        "r": 124,
+        "g": 84,
+        "b": 54
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi04NjI5MTk0fV0/10d10e4923/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi04NjI5MTk0fV0/bc028daabc/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi04NjI5MTk0fV0/6aa79009ee/Stash_TabL.png"
+    },
+    {
+      "n": "Rings (Remove-only)",
+      "i": 140,
+      "id": "74d488429806772ffa0bc257ea900ad93f3680829a519ef1083ae37b8997e8bc",
+      "type": "PremiumStash",
+      "selected": false,
+      "colour": {
+        "r": 99,
+        "g": 128,
+        "b": 0
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi0xMDI1NjM4NH1d/add36a62cf/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi0xMDI1NjM4NH1d/bca6333c61/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi0xMDI1NjM4NH1d/1e0dc0f0ab/Stash_TabL.png"
+    },
+    {
+      "n": "UNIQ (Remove-only)",
+      "i": 141,
+      "id": "e82f86bb30bad511a90c7f3f457f11b5e29f51aa3974d9665d287eca1d8830c4",
+      "type": "QuadStash",
+      "selected": false,
+      "colour": {
+        "r": 191,
+        "g": 94,
+        "b": 0
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi00MjM1Nzc2fV0/b8a88fb564/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi00MjM1Nzc2fV0/be2de19940/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi00MjM1Nzc2fV0/410809a5c6/Stash_TabL.png"
+    },
+    {
+      "n": "15 (Remove-only)",
+      "i": 142,
+      "id": "fabbc2623c8f7a3529c54c8a0f06333281f8b21f87af3eb00a5b97735804019f",
+      "type": "PremiumStash",
+      "selected": false,
+      "colour": {
+        "r": 99,
+        "g": 128,
+        "b": 0
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi0xMDI1NjM4NH1d/add36a62cf/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi0xMDI1NjM4NH1d/bca6333c61/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi0xMDI1NjM4NH1d/1e0dc0f0ab/Stash_TabL.png"
+    },
+    {
+      "n": "Rec (Remove-only)",
+      "i": 143,
+      "id": "8252d9b7f4a4a610109323f1af9a092f32cd3ee1e5b824d5c046f48ade22700a",
+      "type": "PremiumStash",
+      "selected": false,
+      "colour": {
+        "r": 99,
+        "g": 128,
+        "b": 0
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi0xMDI1NjM4NH1d/add36a62cf/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi0xMDI1NjM4NH1d/bca6333c61/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi0xMDI1NjM4NH1d/1e0dc0f0ab/Stash_TabL.png"
+    },
+    {
+      "n": "~b/o 5 chaos (Remove-only)",
+      "i": 144,
+      "id": "1781ff4537c07411c5651e9e7d529bda229e7b37312ce58f14a7c1d3bcbd6e96",
+      "type": "PremiumStash",
+      "selected": false,
+      "colour": {
+        "r": 191,
+        "g": 94,
+        "b": 0
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi00MjM1Nzc2fV0/b8a88fb564/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi00MjM1Nzc2fV0/be2de19940/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi00MjM1Nzc2fV0/410809a5c6/Stash_TabL.png"
+    },
+    {
+      "n": "Essence (Remove-only)",
+      "i": 145,
+      "id": "33781f1d1b60a7c9f89a33968833a3f6b82a1388640f0954b1e3ca03ad07e317",
+      "type": "EssenceStash",
+      "selected": false,
+      "colour": {
+        "r": 128,
+        "g": 179,
+        "b": 255
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi04MzQyNTI5fV0/c95b580a6c/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi04MzQyNTI5fV0/7cc45803af/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi04MzQyNTI5fV0/981fc3f352/Stash_TabL.png"
+    },
+    {
+      "n": "Esse (Remove-only)",
+      "i": 146,
+      "id": "08f574a320743ebfcd916aca4c785efc219074ae6b8c79467918da2ae3f9b24d",
+      "type": "EssenceStash",
+      "selected": false,
+      "colour": {
+        "r": 0,
+        "g": 0,
+        "b": 128
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi0xNjc3NzA4OH1d/8ff0e88292/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi0xNjc3NzA4OH1d/5af07046ab/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi0xNjc3NzA4OH1d/be4d4fb3d7/Stash_TabL.png"
+    },
+    {
+      "n": "|E| (Remove-only)",
+      "i": 147,
+      "id": "6caf329deafa589e2e4f442469e16f35a047ba10d3bb251ef887b823e2ad8a31",
+      "type": "EssenceStash",
+      "selected": false,
+      "colour": {
+        "r": 0,
+        "g": 0,
+        "b": 255
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi0xNjc3Njk2MX1d/43614a51cf/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi0xNjc3Njk2MX1d/e661db2eb9/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi0xNjc3Njk2MX1d/9a88b3e5bf/Stash_TabL.png"
+    },
+    {
+      "n": "2 (Remove-only)",
+      "i": 148,
+      "id": "c1c663d46c925eef5329780727d7417ccee9ed4ccb736904837389c21f364e42",
+      "type": "NormalStash",
+      "selected": false,
+      "colour": {
+        "r": 124,
+        "g": 84,
+        "b": 54
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi04NjI5MTk0fV0/10d10e4923/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi04NjI5MTk0fV0/bc028daabc/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi04NjI5MTk0fV0/6aa79009ee/Stash_TabL.png"
+    },
+    {
+      "n": "14 (Remove-only)",
+      "i": 149,
+      "id": "575ff19449a33760bceacee18d43ba6dca5661175a6313d80ca6ac2735b2394a",
+      "type": "PremiumStash",
+      "selected": false,
+      "colour": {
+        "r": 99,
+        "g": 128,
+        "b": 0
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi0xMDI1NjM4NH1d/add36a62cf/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi0xMDI1NjM4NH1d/bca6333c61/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi0xMDI1NjM4NH1d/1e0dc0f0ab/Stash_TabL.png"
+    },
+    {
+      "n": "Maps",
+      "i": 150,
+      "id": "9eb8a0d020e787caa4eed79d78dc30fe9a1e05263608ef8621a0c19e6b692583",
+      "type": "MapStash",
+      "selected": false,
+      "colour": {
+        "r": 99,
+        "g": 128,
+        "b": 0
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi0xMDI1NjM4NH1d/add36a62cf/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi0xMDI1NjM4NH1d/bca6333c61/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi0xMDI1NjM4NH1d/1e0dc0f0ab/Stash_TabL.png"
+    },
+    {
+      "n": "2 (Remove-only)",
+      "i": 151,
+      "id": "8e158be5a2cfa449a8abf787210ca54f99914f606a08c3ef36977c5de414306b",
+      "type": "NormalStash",
+      "selected": false,
+      "colour": {
+        "r": 124,
+        "g": 84,
+        "b": 54
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi04NjI5MTk0fV0/10d10e4923/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi04NjI5MTk0fV0/bc028daabc/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi04NjI5MTk0fV0/6aa79009ee/Stash_TabL.png"
+    },
+    {
+      "n": "3 (Remove-only)",
+      "i": 152,
+      "id": "c6baffb5c4c24acdeddd613cd35c776d4c1948ea1daf7aa8006e12f4b339bbbc",
+      "type": "NormalStash",
+      "selected": false,
+      "colour": {
+        "r": 124,
+        "g": 84,
+        "b": 54
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi04NjI5MTk0fV0/10d10e4923/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi04NjI5MTk0fV0/bc028daabc/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi04NjI5MTk0fV0/6aa79009ee/Stash_TabL.png"
+    },
+    {
+      "n": "3 (Remove-only)",
+      "i": 153,
+      "id": "10f1fd3ca4b4d227235d5ca06c914dfa9cd80f5c3b41aa383c208c60416b48ed",
+      "type": "NormalStash",
+      "selected": false,
+      "colour": {
+        "r": 124,
+        "g": 84,
+        "b": 54
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi04NjI5MTk0fV0/10d10e4923/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi04NjI5MTk0fV0/bc028daabc/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi04NjI5MTk0fV0/6aa79009ee/Stash_TabL.png"
+    },
+    {
+      "n": "Gems (Remove-only)",
+      "i": 154,
+      "id": "eada72f4b6dcb005fac0a3482c97e61b69a4b95c2de2245f52337912de0dedb6",
+      "type": "PremiumStash",
+      "selected": false,
+      "colour": {
+        "r": 99,
+        "g": 128,
+        "b": 0
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi0xMDI1NjM4NH1d/add36a62cf/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi0xMDI1NjM4NH1d/bca6333c61/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi0xMDI1NjM4NH1d/1e0dc0f0ab/Stash_TabL.png"
+    },
+    {
+      "n": "4 (Remove-only)",
+      "i": 155,
+      "id": "330b51ee44303d3384c43c0ccd51f68fca54f15c5e94f3c1f0ba57faeb0648e4",
+      "type": "NormalStash",
+      "selected": false,
+      "colour": {
+        "r": 124,
+        "g": 84,
+        "b": 54
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi04NjI5MTk0fV0/10d10e4923/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi04NjI5MTk0fV0/bc028daabc/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi04NjI5MTk0fV0/6aa79009ee/Stash_TabL.png"
+    },
+    {
+      "n": "4 (Remove-only)",
+      "i": 156,
+      "id": "3939a12455214018eb459c6ba00581fcb39dae2d329205565d67d031d06b75a2",
+      "type": "NormalStash",
+      "selected": false,
+      "colour": {
+        "r": 124,
+        "g": 84,
+        "b": 54
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi04NjI5MTk0fV0/10d10e4923/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi04NjI5MTk0fV0/bc028daabc/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi04NjI5MTk0fV0/6aa79009ee/Stash_TabL.png"
+    },
+    {
+      "n": "M (Remove-only)",
+      "i": 157,
+      "id": "9b94fc1889197f82c6499c41268d073215da9dcb30c6e4a595e35e7e77b950bf",
+      "type": "PremiumStash",
+      "selected": false,
+      "colour": {
+        "r": 99,
+        "g": 128,
+        "b": 0
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi0xMDI1NjM4NH1d/add36a62cf/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi0xMDI1NjM4NH1d/bca6333c61/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi0xMDI1NjM4NH1d/1e0dc0f0ab/Stash_TabL.png"
+    },
+    {
+      "n": "4 (Remove-only)",
+      "i": 158,
+      "id": "35c7476af3e7de712e24c9f45eac85d3a2d7578b608b8e1fd0ac02d6e66c5837",
+      "type": "NormalStash",
+      "selected": false,
+      "colour": {
+        "r": 124,
+        "g": 84,
+        "b": 54
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi04NjI5MTk0fV0/10d10e4923/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi04NjI5MTk0fV0/bc028daabc/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi04NjI5MTk0fV0/6aa79009ee/Stash_TabL.png"
+    },
+    {
+      "n": "2 (Remove-only)",
+      "i": 159,
+      "id": "42a50305a7826a4de15c003b81ce70c26ee44943bcd4b81d861cefddd706d6eb",
+      "type": "NormalStash",
+      "selected": false,
+      "colour": {
+        "r": 124,
+        "g": 84,
+        "b": 54
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi04NjI5MTk0fV0/10d10e4923/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi04NjI5MTk0fV0/bc028daabc/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi04NjI5MTk0fV0/6aa79009ee/Stash_TabL.png"
+    },
+    {
+      "n": "Gems (Remove-only)",
+      "i": 160,
+      "id": "43225a7abfb350f9341f1496b752d33690ff172a9734d5a807146a0f716a3592",
+      "type": "PremiumStash",
+      "selected": false,
+      "colour": {
+        "r": 99,
+        "g": 128,
+        "b": 0
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi0xMDI1NjM4NH1d/add36a62cf/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi0xMDI1NjM4NH1d/bca6333c61/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi0xMDI1NjM4NH1d/1e0dc0f0ab/Stash_TabL.png"
+    },
+    {
+      "n": "Vendor (Remove-only)",
+      "i": 161,
+      "id": "46a1cce7aa38162278d6ee1e800f80276600600da90fd0db886ebf5e570ea9d8",
+      "type": "PremiumStash",
+      "selected": false,
+      "colour": {
+        "r": 99,
+        "g": 128,
+        "b": 0
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi0xMDI1NjM4NH1d/add36a62cf/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi0xMDI1NjM4NH1d/bca6333c61/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi0xMDI1NjM4NH1d/1e0dc0f0ab/Stash_TabL.png"
+    },
+    {
+      "n": "1 (Remove-only)",
+      "i": 162,
+      "id": "46233c18d4a59b98ba762f31d841ce05fd4e5a78fcbe6d081c429a7370fbe629",
+      "type": "NormalStash",
+      "selected": false,
+      "colour": {
+        "r": 124,
+        "g": 84,
+        "b": 54
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi04NjI5MTk0fV0/10d10e4923/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi04NjI5MTk0fV0/bc028daabc/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi04NjI5MTk0fV0/6aa79009ee/Stash_TabL.png"
+    },
+    {
+      "n": "6 (Remove-only)",
+      "i": 163,
+      "id": "c211f154cffebdbad53e270d2c5d18765adc85fcf40058196953ce5967d4e9a6",
+      "type": "PremiumStash",
+      "selected": false,
+      "colour": {
+        "r": 99,
+        "g": 128,
+        "b": 0
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi0xMDI1NjM4NH1d/add36a62cf/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi0xMDI1NjM4NH1d/bca6333c61/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi0xMDI1NjM4NH1d/1e0dc0f0ab/Stash_TabL.png"
+    },
+    {
+      "n": "T1 (Remove-only)",
+      "i": 164,
+      "id": "ce202d181efa74da021891076440ec689842fa80e19f519989204a27ebaa5741",
+      "type": "PremiumStash",
+      "selected": false,
+      "colour": {
+        "r": 99,
+        "g": 128,
+        "b": 0
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi0xMDI1NjM4NH1d/add36a62cf/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi0xMDI1NjM4NH1d/bca6333c61/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi0xMDI1NjM4NH1d/1e0dc0f0ab/Stash_TabL.png"
+    },
+    {
+      "n": "Leveling (Remove-only)",
+      "i": 165,
+      "id": "6d0dc1544ebe627efd2b7fdaacb01cafd41a1c7b4393fd01bd9e37f90358bfd3",
+      "type": "PremiumStash",
+      "selected": false,
+      "colour": {
+        "r": 99,
+        "g": 128,
+        "b": 0
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi0xMDI1NjM4NH1d/add36a62cf/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi0xMDI1NjM4NH1d/bca6333c61/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi0xMDI1NjM4NH1d/1e0dc0f0ab/Stash_TabL.png"
+    },
+    {
+      "n": "bow leveling (Remove-only)",
+      "i": 166,
+      "id": "60dee06f9a3a7cd6a021035417b5976aeff7ef7c42449a46a30910087f003e6d",
+      "type": "PremiumStash",
+      "selected": false,
+      "colour": {
+        "r": 99,
+        "g": 128,
+        "b": 0
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi0xMDI1NjM4NH1d/add36a62cf/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi0xMDI1NjM4NH1d/bca6333c61/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi0xMDI1NjM4NH1d/1e0dc0f0ab/Stash_TabL.png"
+    },
+    {
+      "n": "LEVELING (Remove-only)",
+      "i": 167,
+      "id": "7d9e1fe28a12a0620db5e04e93d5a45e0f1c7e8102226ae8a9e877f99caddf70",
+      "type": "PremiumStash",
+      "selected": false,
+      "colour": {
+        "r": 99,
+        "g": 128,
+        "b": 0
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi0xMDI1NjM4NH1d/add36a62cf/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi0xMDI1NjM4NH1d/bca6333c61/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi0xMDI1NjM4NH1d/1e0dc0f0ab/Stash_TabL.png"
+    },
+    {
+      "n": "SHAPER/ELDER (Remove-only)",
+      "i": 168,
+      "id": "398db9cb887b7245ed317e705292dccf6d5991163570e647dbfafbbe905a295d",
+      "type": "PremiumStash",
+      "selected": false,
+      "colour": {
+        "r": 50,
+        "g": 50,
+        "b": 50
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi0xMzQ4NzU2Nn1d/0ce8f75b7c/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi0xMzQ4NzU2Nn1d/4470380632/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi0xMzQ4NzU2Nn1d/b85f086896/Stash_TabL.png"
+    },
+    {
+      "n": "8 (Remove-only)",
+      "i": 169,
+      "id": "3b844fafecfe008db94248019b1830af481f6c13e199065833efaed17552f7fc",
+      "type": "PremiumStash",
+      "selected": false,
+      "colour": {
+        "r": 99,
+        "g": 128,
+        "b": 0
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi0xMDI1NjM4NH1d/add36a62cf/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi0xMDI1NjM4NH1d/bca6333c61/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi0xMDI1NjM4NH1d/1e0dc0f0ab/Stash_TabL.png"
+    },
+    {
+      "n": "9 (Remove-only)",
+      "i": 170,
+      "id": "5120b64f0e0b20d0e99b2d6b7a05365720986c88229e9c624f483cce1e61bb91",
+      "type": "PremiumStash",
+      "selected": false,
+      "colour": {
+        "r": 99,
+        "g": 128,
+        "b": 0
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi0xMDI1NjM4NH1d/add36a62cf/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi0xMDI1NjM4NH1d/bca6333c61/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi0xMDI1NjM4NH1d/1e0dc0f0ab/Stash_TabL.png"
+    },
+    {
+      "n": "Resonators (Remove-only)",
+      "i": 171,
+      "id": "6f4dee390ba3eadbe95f4431352a973c314e5984d2d8ed604d5d270684576674",
+      "type": "PremiumStash",
+      "selected": false,
+      "colour": {
+        "r": 191,
+        "g": 245,
+        "b": 0
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi00MTk3MTIwfV0/8f6544fa40/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi00MTk3MTIwfV0/97efbc0e99/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi00MTk3MTIwfV0/093ba5bbf0/Stash_TabL.png"
+    },
+    {
+      "n": "3 (Remove-only)",
+      "i": 172,
+      "id": "7800670f81a59cf26b7f223d1a2bf9cc4d8d8f11f83d93169ca46d8497dd4316",
+      "type": "NormalStash",
+      "selected": false,
+      "colour": {
+        "r": 124,
+        "g": 84,
+        "b": 54
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi04NjI5MTk0fV0/10d10e4923/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi04NjI5MTk0fV0/bc028daabc/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi04NjI5MTk0fV0/6aa79009ee/Stash_TabL.png"
+    },
+    {
+      "n": "9 (Remove-only)",
+      "i": 173,
+      "id": "3d52b4a48c54259a2ac3f0517dd3eb1895a48b73bcac5deaeecf5073403bbf69",
+      "type": "PremiumStash",
+      "selected": false,
+      "colour": {
+        "r": 99,
+        "g": 128,
+        "b": 0
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi0xMDI1NjM4NH1d/add36a62cf/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi0xMDI1NjM4NH1d/bca6333c61/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi0xMDI1NjM4NH1d/1e0dc0f0ab/Stash_TabL.png"
+    },
+    {
+      "n": "Flasks (Remove-only)",
+      "i": 174,
+      "id": "80390b99557c355c6ebba5ff1bc80f626fae8e7b0587d5e9a5f381d831a1d561",
+      "type": "PremiumStash",
+      "selected": false,
+      "colour": {
+        "r": 99,
+        "g": 128,
+        "b": 0
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi0xMDI1NjM4NH1d/add36a62cf/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi0xMDI1NjM4NH1d/bca6333c61/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi0xMDI1NjM4NH1d/1e0dc0f0ab/Stash_TabL.png"
+    },
+    {
+      "n": "14 (Remove-only)",
+      "i": 175,
+      "id": "bf49188c6fe9942cb903cd26610f00b2fe177a49f0a4fc648069fbe69ee08f9e",
+      "type": "PremiumStash",
+      "selected": false,
+      "colour": {
+        "r": 99,
+        "g": 128,
+        "b": 0
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi0xMDI1NjM4NH1d/add36a62cf/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi0xMDI1NjM4NH1d/bca6333c61/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi0xMDI1NjM4NH1d/1e0dc0f0ab/Stash_TabL.png"
+    },
+    {
+      "n": "4 (Remove-only)",
+      "i": 176,
+      "id": "3c7111dfd4b74538e269f9df5994293044cc153abd2319f5b9190eaf768ff9d1",
+      "type": "NormalStash",
+      "selected": false,
+      "colour": {
+        "r": 124,
+        "g": 84,
+        "b": 54
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi04NjI5MTk0fV0/10d10e4923/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi04NjI5MTk0fV0/bc028daabc/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi04NjI5MTk0fV0/6aa79009ee/Stash_TabL.png"
+    },
+    {
+      "n": "5 (Remove-only)",
+      "i": 177,
+      "id": "711b4b6758fc5996c5b1de85b9979a66bf2ae735a84b681b6b0f6c876fb243be",
+      "type": "PremiumStash",
+      "selected": false,
+      "colour": {
+        "r": 99,
+        "g": 128,
+        "b": 0
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi0xMDI1NjM4NH1d/add36a62cf/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi0xMDI1NjM4NH1d/bca6333c61/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi0xMDI1NjM4NH1d/1e0dc0f0ab/Stash_TabL.png"
+    },
+    {
+      "n": "1C (Remove-only)",
+      "i": 178,
+      "id": "a3ca856695ff979247649bf7de803ea430e5dbd89c4a2e63b20bfb6e801599b6",
+      "type": "PremiumStash",
+      "selected": false,
+      "colour": {
+        "r": 115,
+        "g": 0,
+        "b": 85
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi05MjQwNDkxfV0/20c0bb1938/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi05MjQwNDkxfV0/166fba07b0/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi05MjQwNDkxfV0/268ef49ef7/Stash_TabL.png"
+    },
+    {
+      "n": "11 (Remove-only)",
+      "i": 179,
+      "id": "b84f450889eb14529d7ffc5d422b6226ed4e0982670c90273d9c0800f33e19ee",
+      "type": "PremiumStash",
+      "selected": false,
+      "colour": {
+        "r": 99,
+        "g": 128,
+        "b": 0
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi0xMDI1NjM4NH1d/add36a62cf/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi0xMDI1NjM4NH1d/bca6333c61/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi0xMDI1NjM4NH1d/1e0dc0f0ab/Stash_TabL.png"
+    },
+    {
+      "n": "Previous (Remove-only)",
+      "i": 180,
+      "id": "80b48c26e8249cc63179b7329c3e4b0c2faa6d6f73183e5c94bcb7bdf339b239",
+      "type": "PremiumStash",
+      "selected": false,
+      "colour": {
+        "r": 115,
+        "g": 0,
+        "b": 85
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi05MjQwNDkxfV0/20c0bb1938/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi05MjQwNDkxfV0/166fba07b0/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi05MjQwNDkxfV0/268ef49ef7/Stash_TabL.png"
+    },
+    {
+      "n": "11 (Remove-only)",
+      "i": 181,
+      "id": "5a5ec6ea9e4a86c92724bb6caec83a0821b42e7897186cc5ac6df4af5707fcf9",
+      "type": "PremiumStash",
+      "selected": false,
+      "colour": {
+        "r": 99,
+        "g": 128,
+        "b": 0
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi0xMDI1NjM4NH1d/add36a62cf/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi0xMDI1NjM4NH1d/bca6333c61/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi0xMDI1NjM4NH1d/1e0dc0f0ab/Stash_TabL.png"
+    },
+    {
+      "n": "8 (Remove-only)",
+      "i": 182,
+      "id": "0695e10ebc8224892c6e5dea75254aa588938ddea3cbf013f502d3a03ad1a453",
+      "type": "PremiumStash",
+      "selected": false,
+      "colour": {
+        "r": 99,
+        "g": 128,
+        "b": 0
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi0xMDI1NjM4NH1d/add36a62cf/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi0xMDI1NjM4NH1d/bca6333c61/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi0xMDI1NjM4NH1d/1e0dc0f0ab/Stash_TabL.png"
+    },
+    {
+      "n": "1 (Remove-only)",
+      "i": 183,
+      "id": "97dcdbeb611f12cc99d02ae1f36cf8bfd5502d6e12bd1da4e29e089d810746e2",
+      "type": "NormalStash",
+      "selected": false,
+      "colour": {
+        "r": 124,
+        "g": 84,
+        "b": 54
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi04NjI5MTk0fV0/10d10e4923/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi04NjI5MTk0fV0/bc028daabc/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi04NjI5MTk0fV0/6aa79009ee/Stash_TabL.png"
+    },
+    {
+      "n": "T_Loot (Remove-only)",
+      "i": 184,
+      "id": "67685183e428c8c8461db4ead67685a39279e5f74d36b54eede511c7252a129e",
+      "type": "PremiumStash",
+      "selected": false,
+      "colour": {
+        "r": 99,
+        "g": 128,
+        "b": 0
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi0xMDI1NjM4NH1d/add36a62cf/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi0xMDI1NjM4NH1d/bca6333c61/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi0xMDI1NjM4NH1d/1e0dc0f0ab/Stash_TabL.png"
+    },
+    {
+      "n": "4 (Remove-only)",
+      "i": 185,
+      "id": "b31d4b8719892997ffdb38ffd26486e162bef7faa1d2511dbca31e812ec50b39",
+      "type": "NormalStash",
+      "selected": false,
+      "colour": {
+        "r": 124,
+        "g": 84,
+        "b": 54
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi04NjI5MTk0fV0/10d10e4923/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi04NjI5MTk0fV0/bc028daabc/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi04NjI5MTk0fV0/6aa79009ee/Stash_TabL.png"
+    },
+    {
+      "n": "2 (Remove-only)",
+      "i": 186,
+      "id": "6a63f61f585670b01e4bbb8adb6e4258d8ded5ffa366a45151f36801db3f32a8",
+      "type": "NormalStash",
+      "selected": false,
+      "colour": {
+        "r": 124,
+        "g": 84,
+        "b": 54
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi04NjI5MTk0fV0/10d10e4923/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi04NjI5MTk0fV0/bc028daabc/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi04NjI5MTk0fV0/6aa79009ee/Stash_TabL.png"
+    },
+    {
+      "n": "Essence",
+      "i": 187,
+      "id": "1ddd7c23339c66ea69908598ba26acda80fc0ef99f9d8da9a9d6fba2fa9a6699",
+      "type": "EssenceStash",
+      "selected": false,
+      "colour": {
+        "r": 0,
+        "g": 0,
+        "b": 128
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi0xNjc3NzA4OH1d/8ff0e88292/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi0xNjc3NzA4OH1d/5af07046ab/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi0xNjc3NzA4OH1d/be4d4fb3d7/Stash_TabL.png"
+    },
+    {
+      "n": "ED_Setup (Remove-only)",
+      "i": 188,
+      "id": "9d840a5408ba93a1cfc782ddc3a87505b7362631847d1d271c3788d54111059b",
+      "type": "PremiumStash",
+      "selected": false,
+      "colour": {
+        "r": 99,
+        "g": 128,
+        "b": 0
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi0xMDI1NjM4NH1d/add36a62cf/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi0xMDI1NjM4NH1d/bca6333c61/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi0xMDI1NjM4NH1d/1e0dc0f0ab/Stash_TabL.png"
+    },
+    {
+      "n": "12 (Remove-only)",
+      "i": 189,
+      "id": "96a5512b6682b2392ca053aa456163cc2cf4841b080dfd56e66277aa7d7f67f6",
+      "type": "PremiumStash",
+      "selected": false,
+      "colour": {
+        "r": 99,
+        "g": 128,
+        "b": 0
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi0xMDI1NjM4NH1d/add36a62cf/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi0xMDI1NjM4NH1d/bca6333c61/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi0xMDI1NjM4NH1d/1e0dc0f0ab/Stash_TabL.png"
+    },
+    {
+      "n": "QT (Remove-only)",
+      "i": 190,
+      "id": "f6b4b4031bc56e7c620985acaf68bbb75c86ae9f5c7ad6176b3ea5f2e0b4bbee",
+      "type": "PremiumStash",
+      "selected": false,
+      "colour": {
+        "r": 99,
+        "g": 128,
+        "b": 0
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi0xMDI1NjM4NH1d/add36a62cf/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi0xMDI1NjM4NH1d/bca6333c61/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi0xMDI1NjM4NH1d/1e0dc0f0ab/Stash_TabL.png"
+    },
+    {
+      "n": "3 (Remove-only)",
+      "i": 191,
+      "id": "0fa26654445c311a91db5b882a3ebfb0e44bddf0cdf90caf8a8b6293e25b7dec",
+      "type": "NormalStash",
+      "selected": false,
+      "colour": {
+        "r": 124,
+        "g": 84,
+        "b": 54
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi04NjI5MTk0fV0/10d10e4923/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi04NjI5MTk0fV0/bc028daabc/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi04NjI5MTk0fV0/6aa79009ee/Stash_TabL.png"
+    },
+    {
+      "n": "3 (Remove-only)",
+      "i": 192,
+      "id": "baf1d1bef58512d08de6752fb008e0a60365c6a9a32a5b022564372883141ac6",
+      "type": "NormalStash",
+      "selected": false,
+      "colour": {
+        "r": 124,
+        "g": 84,
+        "b": 54
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi04NjI5MTk0fV0/10d10e4923/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi04NjI5MTk0fV0/bc028daabc/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi04NjI5MTk0fV0/6aa79009ee/Stash_TabL.png"
+    },
+    {
+      "n": "7 (Remove-only)",
+      "i": 193,
+      "id": "3aeece3bc04869a9cf357afc2a510232aec26dc57226c9721925b7c75a98df99",
+      "type": "PremiumStash",
+      "selected": false,
+      "colour": {
+        "r": 99,
+        "g": 128,
+        "b": 0
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi0xMDI1NjM4NH1d/add36a62cf/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi0xMDI1NjM4NH1d/bca6333c61/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi0xMDI1NjM4NH1d/1e0dc0f0ab/Stash_TabL.png"
+    },
+    {
+      "n": "1 (Remove-only)",
+      "i": 194,
+      "id": "d48b50849082ac36fb7a38f1ee6270f46e8084995087202e4e8f3851112f0d2b",
+      "type": "NormalStash",
+      "selected": false,
+      "colour": {
+        "r": 124,
+        "g": 84,
+        "b": 54
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi04NjI5MTk0fV0/10d10e4923/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi04NjI5MTk0fV0/bc028daabc/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi04NjI5MTk0fV0/6aa79009ee/Stash_TabL.png"
+    },
+    {
+      "n": "5 (Remove-only)",
+      "i": 195,
+      "id": "98dc07369e5451836a7b5270e0087b232a73beebd8b260894ecb4516f2677952",
+      "type": "PremiumStash",
+      "selected": false,
+      "colour": {
+        "r": 99,
+        "g": 128,
+        "b": 0
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi0xMDI1NjM4NH1d/add36a62cf/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi0xMDI1NjM4NH1d/bca6333c61/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi0xMDI1NjM4NH1d/1e0dc0f0ab/Stash_TabL.png"
+    },
+    {
+      "n": "6 (Remove-only)",
+      "i": 196,
+      "id": "167b60ce05ee68a8f91258c697e0f719ed61c9e3b5d067054cba5d731d79b66a",
+      "type": "PremiumStash",
+      "selected": false,
+      "colour": {
+        "r": 99,
+        "g": 128,
+        "b": 0
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi0xMDI1NjM4NH1d/add36a62cf/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi0xMDI1NjM4NH1d/bca6333c61/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi0xMDI1NjM4NH1d/1e0dc0f0ab/Stash_TabL.png"
+    },
+    {
+      "n": "4 (Remove-only)",
+      "i": 197,
+      "id": "b2769fb5efe0207318fcf67bb6a8dfd53a7c36bd9474c1a92a555fdd8d8c35ed",
+      "type": "NormalStash",
+      "selected": false,
+      "colour": {
+        "r": 124,
+        "g": 84,
+        "b": 54
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi04NjI5MTk0fV0/10d10e4923/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi04NjI5MTk0fV0/bc028daabc/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi04NjI5MTk0fV0/6aa79009ee/Stash_TabL.png"
+    },
+    {
+      "n": "Alibaba (Remove-only)",
+      "i": 198,
+      "id": "6146e63c7cf165f5bc3f0e83bd4c855d2e255a0d433f9c700c6f11ace7295bf9",
+      "type": "PremiumStash",
+      "selected": false,
+      "colour": {
+        "r": 99,
+        "g": 128,
+        "b": 0
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi0xMDI1NjM4NH1d/add36a62cf/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi0xMDI1NjM4NH1d/bca6333c61/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi0xMDI1NjM4NH1d/1e0dc0f0ab/Stash_TabL.png"
+    },
+    {
+      "n": "8 (Remove-only)",
+      "i": 199,
+      "id": "687555638bd35045eacf5e4ac3f1d0694c012050af164eadeaeffd3df295f828",
+      "type": "PremiumStash",
+      "selected": false,
+      "colour": {
+        "r": 99,
+        "g": 128,
+        "b": 0
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi0xMDI1NjM4NH1d/add36a62cf/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi0xMDI1NjM4NH1d/bca6333c61/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi0xMDI1NjM4NH1d/1e0dc0f0ab/Stash_TabL.png"
+    },
+    {
+      "n": "RED (Remove-only)",
+      "i": 200,
+      "id": "675fd3c357ff100114f559a51149cec2247ec75836c9e63c82355723fbf9ea36",
+      "type": "PremiumStash",
+      "selected": false,
+      "colour": {
+        "r": 191,
+        "g": 0,
+        "b": 0
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi00MjU5ODQwfV0/cc64d967fb/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi00MjU5ODQwfV0/8e5ec47efe/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi00MjU5ODQwfV0/ff3a937d2d/Stash_TabL.png"
+    },
+    {
+      "n": "6 (Remove-only)",
+      "i": 201,
+      "id": "a81b42c002239508ca85f0b491f7e6a628b6736f92359f00d3cf43c639a739af",
+      "type": "PremiumStash",
+      "selected": false,
+      "colour": {
+        "r": 99,
+        "g": 128,
+        "b": 0
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi0xMDI1NjM4NH1d/add36a62cf/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi0xMDI1NjM4NH1d/bca6333c61/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi0xMDI1NjM4NH1d/1e0dc0f0ab/Stash_TabL.png"
+    },
+    {
+      "n": "12 (Remove-only)",
+      "i": 202,
+      "id": "11818ef470e350a5c60e7e8909a46e1a9b575da3797b57816d6e83df516ac78c",
+      "type": "PremiumStash",
+      "selected": false,
+      "colour": {
+        "r": 191,
+        "g": 94,
+        "b": 0
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi00MjM1Nzc2fV0/b8a88fb564/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi00MjM1Nzc2fV0/be2de19940/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi00MjM1Nzc2fV0/410809a5c6/Stash_TabL.png"
+    },
+    {
+      "n": "9 (Remove-only)",
+      "i": 203,
+      "id": "6f6a82c98b37e08f33bd0f0a4949af4a4ab836e652f9f2fadde65089ff4bc2af",
+      "type": "PremiumStash",
+      "selected": false,
+      "colour": {
+        "r": 99,
+        "g": 128,
+        "b": 0
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi0xMDI1NjM4NH1d/add36a62cf/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi0xMDI1NjM4NH1d/bca6333c61/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi0xMDI1NjM4NH1d/1e0dc0f0ab/Stash_TabL.png"
+    },
+    {
+      "n": "1 (Remove-only)",
+      "i": 204,
+      "id": "435619749daa8b40eb61299d26e44b50bf9dc7ceb110f2fad726b4731ae01121",
+      "type": "NormalStash",
+      "selected": false,
+      "colour": {
+        "r": 124,
+        "g": 84,
+        "b": 54
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi04NjI5MTk0fV0/10d10e4923/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi04NjI5MTk0fV0/bc028daabc/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi04NjI5MTk0fV0/6aa79009ee/Stash_TabL.png"
+    },
+    {
+      "n": "SRS (Remove-only)",
+      "i": 205,
+      "id": "f9ecdaf223cdd48fc18c85378d07b5423433b0244bd75b0902270154391827e2",
+      "type": "PremiumStash",
+      "selected": false,
+      "colour": {
+        "r": 99,
+        "g": 128,
+        "b": 0
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi0xMDI1NjM4NH1d/add36a62cf/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi0xMDI1NjM4NH1d/bca6333c61/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi0xMDI1NjM4NH1d/1e0dc0f0ab/Stash_TabL.png"
+    },
+    {
+      "n": "Make-it-rain (Remove-only)",
+      "i": 206,
+      "id": "2d2524b6a3e26f4e7c6f1a15d15ba4b4c090d75b0c312a096c457f24685f80d9",
+      "type": "PremiumStash",
+      "selected": false,
+      "colour": {
+        "r": 191,
+        "g": 0,
+        "b": 0
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi00MjU5ODQwfV0/cc64d967fb/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi00MjU5ODQwfV0/8e5ec47efe/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi00MjU5ODQwfV0/ff3a937d2d/Stash_TabL.png"
+    },
+    {
+      "n": "3 (Remove-only)",
+      "i": 207,
+      "id": "05ddaba807a6029694ed5cbb7f247c753ee7d708cee26c54ac681824d7153c60",
+      "type": "NormalStash",
+      "selected": false,
+      "colour": {
+        "r": 124,
+        "g": 84,
+        "b": 54
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi04NjI5MTk0fV0/10d10e4923/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi04NjI5MTk0fV0/bc028daabc/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi04NjI5MTk0fV0/6aa79009ee/Stash_TabL.png"
+    },
+    {
+      "n": "16 (Remove-only)",
+      "i": 208,
+      "id": "c9d1e7c70556ca746f94b3e13fc0d8983d8d99a0f7d577f30a9132a424c32870",
+      "type": "PremiumStash",
+      "selected": false,
+      "colour": {
+        "r": 99,
+        "g": 128,
+        "b": 0
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi0xMDI1NjM4NH1d/add36a62cf/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi0xMDI1NjM4NH1d/bca6333c61/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi0xMDI1NjM4NH1d/1e0dc0f0ab/Stash_TabL.png"
+    },
+    {
+      "n": "13 (Remove-only)",
+      "i": 209,
+      "id": "c90e5a84acc2e874ea22189e34e5edd2e81f2676c821c340de7cfebd5e3fa698",
+      "type": "PremiumStash",
+      "selected": false,
+      "colour": {
+        "r": 99,
+        "g": 128,
+        "b": 0
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi0xMDI1NjM4NH1d/add36a62cf/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi0xMDI1NjM4NH1d/bca6333c61/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi0xMDI1NjM4NH1d/1e0dc0f0ab/Stash_TabL.png"
+    },
+    {
+      "n": "20 (Remove-only)",
+      "i": 210,
+      "id": "895b8a7768781a20262539c7df40baa52d204b0fde37979ff3ab061f8221d62f",
+      "type": "EssenceStash",
+      "selected": false,
+      "colour": {
+        "r": 99,
+        "g": 128,
+        "b": 0
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi0xMDI1NjM4NH1d/add36a62cf/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi0xMDI1NjM4NH1d/bca6333c61/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi0xMDI1NjM4NH1d/1e0dc0f0ab/Stash_TabL.png"
+    },
+    {
+      "n": "leveling",
+      "i": 211,
+      "id": "1d3b3efdd7dfbe56208923c8aab4ebdca29c876e7e4db7271b9b4d5208c97d68",
+      "type": "PremiumStash",
+      "selected": false,
+      "colour": {
+        "r": 99,
+        "g": 128,
+        "b": 0
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi0xMDI1NjM4NH1d/add36a62cf/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi0xMDI1NjM4NH1d/bca6333c61/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi0xMDI1NjM4NH1d/1e0dc0f0ab/Stash_TabL.png"
+    },
+    {
+      "n": "2 (Remove-only)",
+      "i": 212,
+      "id": "3aee9ff9f6e282c0fd84c4b3711c3047221f0ebe2b2cf1ac02b03f29954558de",
+      "type": "NormalStash",
+      "selected": false,
+      "colour": {
+        "r": 124,
+        "g": 84,
+        "b": 54
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi04NjI5MTk0fV0/10d10e4923/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi04NjI5MTk0fV0/bc028daabc/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi04NjI5MTk0fV0/6aa79009ee/Stash_TabL.png"
+    },
+    {
+      "n": "5 (Remove-only)",
+      "i": 213,
+      "id": "4e16d0a8f908d6ce52cb168a937d95d19d944831bf73dbfbea9278edb10f6d76",
+      "type": "PremiumStash",
+      "selected": false,
+      "colour": {
+        "r": 99,
+        "g": 128,
+        "b": 0
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi0xMDI1NjM4NH1d/add36a62cf/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi0xMDI1NjM4NH1d/bca6333c61/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi0xMDI1NjM4NH1d/1e0dc0f0ab/Stash_TabL.png"
+    },
+    {
+      "n": "R1 (Remove-only)",
+      "i": 214,
+      "id": "f55b7efbba55a1a7fc8563c0638a87ff8ff610c7d12bcff87e376a7edaafc620",
+      "type": "PremiumStash",
+      "selected": false,
+      "colour": {
+        "r": 90,
+        "g": 0,
+        "b": 179
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi0xMDg3ODc5N31d/5e29dc2964/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi0xMDg3ODc5N31d/29a9b1e04f/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi0xMDg3ODc5N31d/6e0cc9951b/Stash_TabL.png"
+    },
+    {
+      "n": "Goldsmiths (Remove-only)",
+      "i": 215,
+      "id": "08a90bc0aaab796ec98dd8a5aa0843b6e83bc6e645341ae21acdd9a57e91cd98",
+      "type": "PremiumStash",
+      "selected": false,
+      "colour": {
+        "r": 191,
+        "g": 94,
+        "b": 0
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi00MjM1Nzc2fV0/b8a88fb564/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi00MjM1Nzc2fV0/be2de19940/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi00MjM1Nzc2fV0/410809a5c6/Stash_TabL.png"
+    },
+    {
+      "n": "M2 (Remove-only)",
+      "i": 216,
+      "id": "6fa04478bd17e0a6bfaa9714e97c90ebcdd931e8b47cf31b9a38901266ba1ecc",
+      "type": "PremiumStash",
+      "selected": false,
+      "colour": {
+        "r": 255,
+        "g": 170,
+        "b": 0
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi0yMjAxNn1d/317f9d2d8c/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi0yMjAxNn1d/c06c5980a6/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi0yMjAxNn1d/9a7ac3c720/Stash_TabL.png"
+    },
+    {
+      "n": "UNIQ (Remove-only)",
+      "i": 217,
+      "id": "35f6f1950ae16f7c40c6d0b27ad7814ba5db6944eed7739c80b1eb630b80d7af",
+      "type": "PremiumStash",
+      "selected": false,
+      "colour": {
+        "r": 255,
+        "g": 170,
+        "b": 0
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi0yMjAxNn1d/317f9d2d8c/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi0yMjAxNn1d/c06c5980a6/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi0yMjAxNn1d/9a7ac3c720/Stash_TabL.png"
+    },
+    {
+      "n": "6 (Remove-only)",
+      "i": 218,
+      "id": "6582a69c3f618bc4147a077bf44e3d7bee3ba234b167178154abeed176f668c5",
+      "type": "PremiumStash",
+      "selected": false,
+      "colour": {
+        "r": 99,
+        "g": 128,
+        "b": 0
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi0xMDI1NjM4NH1d/add36a62cf/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi0xMDI1NjM4NH1d/bca6333c61/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi0xMDI1NjM4NH1d/1e0dc0f0ab/Stash_TabL.png"
+    },
+    {
+      "n": "13 (Remove-only)",
+      "i": 219,
+      "id": "eb7c979c02fb546209fff94457aec5349d473bcc90a8e580397488fbbae564be",
+      "type": "PremiumStash",
+      "selected": false,
+      "colour": {
+        "r": 99,
+        "g": 128,
+        "b": 0
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi0xMDI1NjM4NH1d/add36a62cf/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi0xMDI1NjM4NH1d/bca6333c61/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi0xMDI1NjM4NH1d/1e0dc0f0ab/Stash_TabL.png"
+    },
+    {
+      "n": "Uniques (Remove-only)",
+      "i": 220,
+      "id": "cae3aebb1c011042c8101fde513604331730a63f75ffeb1a88c1e01b7e11abb4",
+      "type": "QuadStash",
+      "selected": false,
+      "colour": {
+        "r": 99,
+        "g": 128,
+        "b": 0
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi0xMDI1NjM4NH1d/add36a62cf/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi0xMDI1NjM4NH1d/bca6333c61/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi0xMDI1NjM4NH1d/1e0dc0f0ab/Stash_TabL.png"
+    },
+    {
+      "n": "14 (Remove-only)",
+      "i": 221,
+      "id": "50005756c753f5b679090d6908b505ef4f2aa8e55018b8c8ef1fa1646253f9c0",
+      "type": "PremiumStash",
+      "selected": false,
+      "colour": {
+        "r": 99,
+        "g": 128,
+        "b": 0
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi0xMDI1NjM4NH1d/add36a62cf/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi0xMDI1NjM4NH1d/bca6333c61/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi0xMDI1NjM4NH1d/1e0dc0f0ab/Stash_TabL.png"
+    },
+    {
+      "n": "CAC40 (Remove-only)",
+      "i": 222,
+      "id": "6254bc3dcbd42bb84fbfbf72019b446199b6c1e1cbb89f24355d75d1097fb6a4",
+      "type": "PremiumStash",
+      "selected": false,
+      "colour": {
+        "r": 99,
+        "g": 128,
+        "b": 0
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi0xMDI1NjM4NH1d/add36a62cf/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi0xMDI1NjM4NH1d/bca6333c61/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi0xMDI1NjM4NH1d/1e0dc0f0ab/Stash_TabL.png"
+    },
+    {
+      "n": "15 (Remove-only)",
+      "i": 223,
+      "id": "7ca283b774f0dba9f1d692cd9117977c62b16fbabd134118fc216a5b5eab5994",
+      "type": "PremiumStash",
+      "selected": false,
+      "colour": {
+        "r": 99,
+        "g": 128,
+        "b": 0
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi0xMDI1NjM4NH1d/add36a62cf/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi0xMDI1NjM4NH1d/bca6333c61/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi0xMDI1NjM4NH1d/1e0dc0f0ab/Stash_TabL.png"
+    },
+    {
+      "n": "7",
+      "i": 224,
+      "id": "44dc801d656afac2ff65698cb035e312e012e6149c9057e62722a7bce5bf37ea",
+      "type": "QuadStash",
+      "selected": false,
+      "colour": {
+        "r": 99,
+        "g": 128,
+        "b": 0
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi0xMDI1NjM4NH1d/add36a62cf/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi0xMDI1NjM4NH1d/bca6333c61/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi0xMDI1NjM4NH1d/1e0dc0f0ab/Stash_TabL.png"
+    },
+    {
+      "n": "1 (Remove-only)",
+      "i": 225,
+      "id": "14515fe44f157f48f7eff4a151d393a0a322a3a44e7406544b2f705988ad6a8a",
+      "type": "NormalStash",
+      "selected": false,
+      "colour": {
+        "r": 124,
+        "g": 84,
+        "b": 54
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi04NjI5MTk0fV0/10d10e4923/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi04NjI5MTk0fV0/bc028daabc/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi04NjI5MTk0fV0/6aa79009ee/Stash_TabL.png"
+    },
+    {
+      "n": "3 (Remove-only)",
+      "i": 226,
+      "id": "8aab95bc9c6a1ce04c1765b34b4119c411f794e7c93e5467955ce22d3dfd4306",
+      "type": "NormalStash",
+      "selected": false,
+      "colour": {
+        "r": 124,
+        "g": 84,
+        "b": 54
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi04NjI5MTk0fV0/10d10e4923/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi04NjI5MTk0fV0/bc028daabc/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi04NjI5MTk0fV0/6aa79009ee/Stash_TabL.png"
+    },
+    {
+      "n": "M1 (Remove-only)",
+      "i": 227,
+      "id": "86312cd8c508fad2928ba4616a4fa0c8101870ceb16c60d699077b9c22b4a01e",
+      "type": "PremiumStash",
+      "selected": false,
+      "colour": {
+        "r": 136,
+        "g": 136,
+        "b": 136
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi03ODI5MzY4fV0/6d2ae96bb8/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi03ODI5MzY4fV0/bd68b73f17/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi03ODI5MzY4fV0/dedeab1e5f/Stash_TabL.png"
+    },
+    {
+      "n": "BLT (Remove-only)",
+      "i": 228,
+      "id": "fec5d431fb60fe3549f73de7e0bc5701430650e1ba3a081e813611fcf54a0f04",
+      "type": "PremiumStash",
+      "selected": false,
+      "colour": {
+        "r": 191,
+        "g": 94,
+        "b": 0
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi00MjM1Nzc2fV0/b8a88fb564/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi00MjM1Nzc2fV0/be2de19940/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi00MjM1Nzc2fV0/410809a5c6/Stash_TabL.png"
+    },
+    {
+      "n": "~b/o 1 alch (Remove-only)",
+      "i": 229,
+      "id": "deef962e11d2d9f47ff7e38f84658d7981f4694535d955315d41c096c229d85c",
+      "type": "PremiumStash",
+      "selected": false,
+      "colour": {
+        "r": 99,
+        "g": 128,
+        "b": 0
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi0xMDI1NjM4NH1d/add36a62cf/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi0xMDI1NjM4NH1d/bca6333c61/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi0xMDI1NjM4NH1d/1e0dc0f0ab/Stash_TabL.png"
+    },
+    {
+      "n": "3 (Remove-only)",
+      "i": 230,
+      "id": "8192e28b2a19155c4845f184b5439f93e6b55216fc8d768ec1f4f334c0993618",
+      "type": "NormalStash",
+      "selected": false,
+      "colour": {
+        "r": 124,
+        "g": 84,
+        "b": 54
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi04NjI5MTk0fV0/10d10e4923/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi04NjI5MTk0fV0/bc028daabc/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi04NjI5MTk0fV0/6aa79009ee/Stash_TabL.png"
+    },
+    {
+      "n": "red",
+      "i": 231,
+      "id": "3d5b27ec46f7ca2d0b8a11bc79785e098c3ad0a3a82a9c959711f5498a3be440",
+      "type": "PremiumStash",
+      "selected": false,
+      "colour": {
+        "r": 99,
+        "g": 128,
+        "b": 0
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi0xMDI1NjM4NH1d/add36a62cf/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi0xMDI1NjM4NH1d/bca6333c61/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi0xMDI1NjM4NH1d/1e0dc0f0ab/Stash_TabL.png"
+    },
+    {
+      "n": "3 (Remove-only)",
+      "i": 232,
+      "id": "9cd95859f960153b40c6abb45501318ceb36f179e649aae1be0d9bc96d19779f",
+      "type": "NormalStash",
+      "selected": false,
+      "colour": {
+        "r": 124,
+        "g": 84,
+        "b": 54
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi04NjI5MTk0fV0/10d10e4923/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi04NjI5MTk0fV0/bc028daabc/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi04NjI5MTk0fV0/6aa79009ee/Stash_TabL.png"
+    },
+    {
+      "n": "5 (Remove-only)",
+      "i": 233,
+      "id": "4871d2da809f56c0dd41b31e324c7b9106073ceeb1334add38e22781c24d93e8",
+      "type": "PremiumStash",
+      "selected": false,
+      "colour": {
+        "r": 99,
+        "g": 128,
+        "b": 0
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi0xMDI1NjM4NH1d/add36a62cf/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi0xMDI1NjM4NH1d/bca6333c61/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi0xMDI1NjM4NH1d/1e0dc0f0ab/Stash_TabL.png"
+    },
+    {
+      "n": "2 (Remove-only)",
+      "i": 234,
+      "id": "3ba7d6d07c08d9fded97adc2c8e7b61d078881a799ad2b5b74b7ff32605aa6aa",
+      "type": "NormalStash",
+      "selected": false,
+      "colour": {
+        "r": 124,
+        "g": 84,
+        "b": 54
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi04NjI5MTk0fV0/10d10e4923/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi04NjI5MTk0fV0/bc028daabc/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi04NjI5MTk0fV0/6aa79009ee/Stash_TabL.png"
+    },
+    {
+      "n": "RF (Remove-only)",
+      "i": 235,
+      "id": "e3b72c2061da2842ae793bbd52bae1d2736ee94e41f56410e1cc671c8573d0e7",
+      "type": "PremiumStash",
+      "selected": false,
+      "colour": {
+        "r": 191,
+        "g": 0,
+        "b": 0
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi00MjU5ODQwfV0/cc64d967fb/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi00MjU5ODQwfV0/8e5ec47efe/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi00MjU5ODQwfV0/ff3a937d2d/Stash_TabL.png"
+    },
+    {
+      "n": "1",
+      "i": 236,
+      "id": "bec063fa1af45e36619e87b33daba989a3d1033c54661f6c83312390ed00a25b",
+      "type": "PremiumStash",
+      "selected": false,
+      "colour": {
+        "r": 99,
+        "g": 128,
+        "b": 0
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi0xMDI1NjM4NH1d/add36a62cf/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi0xMDI1NjM4NH1d/bca6333c61/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi0xMDI1NjM4NH1d/1e0dc0f0ab/Stash_TabL.png"
+    },
+    {
+      "n": "chaos Recipe (Remove-only)",
+      "i": 237,
+      "id": "4ffe5e53cb09ae4b57396dc1c672d15420f0eb73bcba2eaff840bab6a965d2c3",
+      "type": "PremiumStash",
+      "selected": false,
+      "colour": {
+        "r": 99,
+        "g": 128,
+        "b": 0
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi0xMDI1NjM4NH1d/add36a62cf/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi0xMDI1NjM4NH1d/bca6333c61/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi0xMDI1NjM4NH1d/1e0dc0f0ab/Stash_TabL.png"
+    },
+    {
+      "n": "4",
+      "i": 238,
+      "id": "ef9de2106c4f181d7da773dc79f8df70eb407b17861f227a8e64607ba6a512c8",
+      "type": "PremiumStash",
+      "selected": false,
+      "colour": {
+        "r": 99,
+        "g": 128,
+        "b": 0
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi0xMDI1NjM4NH1d/add36a62cf/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi0xMDI1NjM4NH1d/bca6333c61/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi0xMDI1NjM4NH1d/1e0dc0f0ab/Stash_TabL.png"
+    },
+    {
+      "n": "IceShot (Remove-only)",
+      "i": 239,
+      "id": "684ced6b8276f6bea2917b9e7337f5d174efc92b9e89d59b7cbbc7cfb38b92e9",
+      "type": "PremiumStash",
+      "selected": false,
+      "colour": {
+        "r": 99,
+        "g": 128,
+        "b": 0
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi0xMDI1NjM4NH1d/add36a62cf/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi0xMDI1NjM4NH1d/bca6333c61/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi0xMDI1NjM4NH1d/1e0dc0f0ab/Stash_TabL.png"
+    },
+    {
+      "n": "4 (Remove-only)",
+      "i": 240,
+      "id": "0065609f94e4f03fcf24a2f9be3c0a2b601a43ea0a6f3f22367236595f597ce5",
+      "type": "NormalStash",
+      "selected": false,
+      "colour": {
+        "r": 124,
+        "g": 84,
+        "b": 54
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi04NjI5MTk0fV0/10d10e4923/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi04NjI5MTk0fV0/bc028daabc/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi04NjI5MTk0fV0/6aa79009ee/Stash_TabL.png"
+    },
+    {
+      "n": "1 (Remove-only)",
+      "i": 241,
+      "id": "1d0bfed00e49a3b66ab47e2228471836912b2e394703c007c5aaf5f9d4240256",
+      "type": "NormalStash",
+      "selected": false,
+      "colour": {
+        "r": 124,
+        "g": 84,
+        "b": 54
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi04NjI5MTk0fV0/10d10e4923/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi04NjI5MTk0fV0/bc028daabc/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi04NjI5MTk0fV0/6aa79009ee/Stash_TabL.png"
+    },
+    {
+      "n": "4 (Remove-only)",
+      "i": 242,
+      "id": "908627794224a576566b72b7201c6fb6bf6b0db32338b84514aa4ae5df1a5eb6",
+      "type": "NormalStash",
+      "selected": false,
+      "colour": {
+        "r": 124,
+        "g": 84,
+        "b": 54
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi04NjI5MTk0fV0/10d10e4923/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi04NjI5MTk0fV0/bc028daabc/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi04NjI5MTk0fV0/6aa79009ee/Stash_TabL.png"
+    },
+    {
+      "n": "8 (Remove-only)",
+      "i": 243,
+      "id": "b4e63d8815ec330450f53ec421862625167cabc7fd6a3b186c8810c946ca7e51",
+      "type": "PremiumStash",
+      "selected": false,
+      "colour": {
+        "r": 99,
+        "g": 128,
+        "b": 0
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi0xMDI1NjM4NH1d/add36a62cf/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi0xMDI1NjM4NH1d/bca6333c61/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi0xMDI1NjM4NH1d/1e0dc0f0ab/Stash_TabL.png"
+    },
+    {
+      "n": "5 (Remove-only)",
+      "i": 244,
+      "id": "c3e4cc814108aa1d2fca7a46955bfa90e4fbbe6dacdcf4999253f02fa7b68601",
+      "type": "PremiumStash",
+      "selected": false,
+      "colour": {
+        "r": 99,
+        "g": 128,
+        "b": 0
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi0xMDI1NjM4NH1d/add36a62cf/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi0xMDI1NjM4NH1d/bca6333c61/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi0xMDI1NjM4NH1d/1e0dc0f0ab/Stash_TabL.png"
+    },
+    {
+      "n": "1",
+      "i": 245,
+      "id": "96a98b836878c4266f06bf37707d40ee64d79403436bb5430432087a56323973",
+      "type": "NormalStash",
+      "selected": false,
+      "colour": {
+        "r": 124,
+        "g": 84,
+        "b": 54
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi04NjI5MTk0fV0/10d10e4923/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi04NjI5MTk0fV0/bc028daabc/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi04NjI5MTk0fV0/6aa79009ee/Stash_TabL.png"
+    },
+    {
+      "n": "1 (Remove-only)",
+      "i": 246,
+      "id": "611792bac229d4ba369fd749a59afdd34341813bedccad291507555061ec0b87",
+      "type": "NormalStash",
+      "selected": false,
+      "colour": {
+        "r": 124,
+        "g": 84,
+        "b": 54
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi04NjI5MTk0fV0/10d10e4923/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi04NjI5MTk0fV0/bc028daabc/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi04NjI5MTk0fV0/6aa79009ee/Stash_TabL.png"
+    },
+    {
+      "n": "Buyout",
+      "i": 247,
+      "id": "049311aeaa9da32cb5b47723d7738dad04d0b3c5db5666e9320980f91d4b29fc",
+      "type": "PremiumStash",
+      "selected": false,
+      "colour": {
+        "r": 99,
+        "g": 128,
+        "b": 0
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi0xMDI1NjM4NH1d/add36a62cf/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi0xMDI1NjM4NH1d/bca6333c61/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi0xMDI1NjM4NH1d/1e0dc0f0ab/Stash_TabL.png"
+    },
+    {
+      "n": "gems (Remove-only)",
+      "i": 248,
+      "id": "63657f6bb766b3810de2ac1ff7863696ac8235767ba6cc224cdc266804433c1f",
+      "type": "PremiumStash",
+      "selected": false,
+      "colour": {
+        "r": 99,
+        "g": 128,
+        "b": 0
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi0xMDI1NjM4NH1d/add36a62cf/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi0xMDI1NjM4NH1d/bca6333c61/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi0xMDI1NjM4NH1d/1e0dc0f0ab/Stash_TabL.png"
+    },
+    {
+      "n": "jewels (Remove-only)",
+      "i": 249,
+      "id": "5d5507433869a00698f4f4440941e40c2272b766414bc9edb1958fc1012a622c",
+      "type": "PremiumStash",
+      "selected": false,
+      "colour": {
+        "r": 255,
+        "g": 170,
+        "b": 0
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi0yMjAxNn1d/317f9d2d8c/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi0yMjAxNn1d/c06c5980a6/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi0yMjAxNn1d/9a7ac3c720/Stash_TabL.png"
+    },
+    {
+      "n": "2 (Remove-only)",
+      "i": 250,
+      "id": "a5af067defb3bde353d1debee18a3c056d9041611a6be9ce7cc23e4cb7820cad",
+      "type": "NormalStash",
+      "selected": false,
+      "colour": {
+        "r": 124,
+        "g": 84,
+        "b": 54
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi04NjI5MTk0fV0/10d10e4923/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi04NjI5MTk0fV0/bc028daabc/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi04NjI5MTk0fV0/6aa79009ee/Stash_TabL.png"
+    },
+    {
+      "n": "13 (Remove-only)",
+      "i": 251,
+      "id": "a7cff55070b3452a14dae92ddc61adda3ed2d135b9e64811070d1218563ce5c2",
+      "type": "QuadStash",
+      "selected": false,
+      "colour": {
+        "r": 99,
+        "g": 128,
+        "b": 0
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi0xMDI1NjM4NH1d/add36a62cf/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi0xMDI1NjM4NH1d/bca6333c61/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi0xMDI1NjM4NH1d/1e0dc0f0ab/Stash_TabL.png"
+    },
+    {
+      "n": "1 (Remove-only)",
+      "i": 252,
+      "id": "1cf7877ca29910a01b9e9c1edafa911739c41d732923b1aa7ad0780b88b74e94",
+      "type": "NormalStash",
+      "selected": false,
+      "colour": {
+        "r": 124,
+        "g": 84,
+        "b": 54
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi04NjI5MTk0fV0/10d10e4923/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi04NjI5MTk0fV0/bc028daabc/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi04NjI5MTk0fV0/6aa79009ee/Stash_TabL.png"
+    },
+    {
+      "n": "7 (Remove-only)",
+      "i": 253,
+      "id": "5367bff942123429462a8c5cb3f5671c2f47c16e7723079e4574d4c8241fa114",
+      "type": "PremiumStash",
+      "selected": false,
+      "colour": {
+        "r": 99,
+        "g": 128,
+        "b": 0
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi0xMDI1NjM4NH1d/add36a62cf/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi0xMDI1NjM4NH1d/bca6333c61/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi0xMDI1NjM4NH1d/1e0dc0f0ab/Stash_TabL.png"
+    },
+    {
+      "n": "currentstuff (Remove-only)",
+      "i": 254,
+      "id": "2d3a77a40ebc16bba197006fc91dd5145115b7103da06e204e815c613b9cc590",
+      "type": "PremiumStash",
+      "selected": false,
+      "colour": {
+        "r": 0,
+        "g": 0,
+        "b": 128
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi0xNjc3NzA4OH1d/8ff0e88292/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi0xNjc3NzA4OH1d/5af07046ab/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi0xNjc3NzA4OH1d/be4d4fb3d7/Stash_TabL.png"
+    },
+    {
+      "n": "10",
+      "i": 255,
+      "id": "288ed6f96d5ca9d7df72db4a0ab5eeb092ecc15a8a8ec9dce5a7b036a8520bf6",
+      "type": "PremiumStash",
+      "selected": false,
+      "colour": {
+        "r": 99,
+        "g": 128,
+        "b": 0
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi0xMDI1NjM4NH1d/add36a62cf/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi0xMDI1NjM4NH1d/bca6333c61/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi0xMDI1NjM4NH1d/1e0dc0f0ab/Stash_TabL.png"
+    },
+    {
+      "n": "1 (Remove-only)",
+      "i": 256,
+      "id": "7ac700949fe95bfe3678b00e01584560ccffaf9404fae0203e0554099877e641",
+      "type": "NormalStash",
+      "selected": false,
+      "colour": {
+        "r": 124,
+        "g": 84,
+        "b": 54
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi04NjI5MTk0fV0/10d10e4923/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi04NjI5MTk0fV0/bc028daabc/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi04NjI5MTk0fV0/6aa79009ee/Stash_TabL.png"
+    },
+    {
+      "n": "2 (Remove-only)",
+      "i": 257,
+      "id": "1149fdd724886beae0ed1ad6ddc92a749131d9f4896dc9f6d437209c248e7872",
+      "type": "NormalStash",
+      "selected": false,
+      "colour": {
+        "r": 124,
+        "g": 84,
+        "b": 54
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi04NjI5MTk0fV0/10d10e4923/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi04NjI5MTk0fV0/bc028daabc/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi04NjI5MTk0fV0/6aa79009ee/Stash_TabL.png"
+    },
+    {
+      "n": "items (Remove-only)",
+      "i": 258,
+      "id": "800f52f987841e135089232823bb0615fc7a06cff8dd7010575f79ae602d3691",
+      "type": "PremiumStash",
+      "selected": false,
+      "colour": {
+        "r": 255,
+        "g": 191,
+        "b": 128
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi0xNjUxMn1d/e5ec05f537/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi0xNjUxMn1d/0bc9f829c7/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi0xNjUxMn1d/7fff2b2983/Stash_TabL.png"
+    },
+    {
+      "n": "2 (Remove-only)",
+      "i": 259,
+      "id": "58c80ffe9317e288ad5fde0a6a63658d54cdebeb94eb431a1af3c41ad65b7b0c",
+      "type": "NormalStash",
+      "selected": false,
+      "colour": {
+        "r": 124,
+        "g": 84,
+        "b": 54
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi04NjI5MTk0fV0/10d10e4923/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi04NjI5MTk0fV0/bc028daabc/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi04NjI5MTk0fV0/6aa79009ee/Stash_TabL.png"
+    },
+    {
+      "n": "Shop (Remove-only)",
+      "i": 260,
+      "id": "d0c7f9c4040e25856c0c4862d80c6223e1a2e3fabd2171db0fe94ed499c3d1d9",
+      "type": "PremiumStash",
+      "selected": false,
+      "colour": {
+        "r": 89,
+        "g": 0,
+        "b": 0
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi0xMDk0NDUxMn1d/2e64348e45/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi0xMDk0NDUxMn1d/5c8a57aedb/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi0xMDk0NDUxMn1d/654fab7997/Stash_TabL.png"
+    },
+    {
+      "n": "3 (Remove-only)",
+      "i": 261,
+      "id": "2a7b73d7acabf86bbf76800cc679c69201982b46704bb411b70d696f0bcf5a17",
+      "type": "NormalStash",
+      "selected": false,
+      "colour": {
+        "r": 124,
+        "g": 84,
+        "b": 54
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi04NjI5MTk0fV0/10d10e4923/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi04NjI5MTk0fV0/bc028daabc/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi04NjI5MTk0fV0/6aa79009ee/Stash_TabL.png"
+    },
+    {
+      "n": "4 (Remove-only)",
+      "i": 262,
+      "id": "a6477a41be7341ba2b84d3fd8ef98d00569c9ef978614b6cea8bd69d12979659",
+      "type": "NormalStash",
+      "selected": false,
+      "colour": {
+        "r": 124,
+        "g": 84,
+        "b": 54
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi04NjI5MTk0fV0/10d10e4923/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi04NjI5MTk0fV0/bc028daabc/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi04NjI5MTk0fV0/6aa79009ee/Stash_TabL.png"
+    },
+    {
+      "n": "2 (Remove-only)",
+      "i": 263,
+      "id": "2fcbb6296b2f14211bb1ec9e5a359720152997a5ff3f34310e020122b2293b18",
+      "type": "NormalStash",
+      "selected": false,
+      "colour": {
+        "r": 124,
+        "g": 84,
+        "b": 54
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi04NjI5MTk0fV0/10d10e4923/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi04NjI5MTk0fV0/bc028daabc/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi04NjI5MTk0fV0/6aa79009ee/Stash_TabL.png"
+    },
+    {
+      "n": "Trade (Remove-only)",
+      "i": 264,
+      "id": "78b83f579c5838520c9835b0245f862cac8ccdc557e8a721805368a1a1df1801",
+      "type": "PremiumStash",
+      "selected": false,
+      "colour": {
+        "r": 99,
+        "g": 128,
+        "b": 0
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi0xMDI1NjM4NH1d/add36a62cf/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi0xMDI1NjM4NH1d/bca6333c61/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi0xMDI1NjM4NH1d/1e0dc0f0ab/Stash_TabL.png"
+    },
+    {
+      "n": "gems",
+      "i": 265,
+      "id": "15aed5448087887047ce84c16d4967a1dabbee281e88efd8fb2b87019fdd0481",
+      "type": "PremiumStash",
+      "selected": false,
+      "colour": {
+        "r": 99,
+        "g": 128,
+        "b": 0
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi0xMDI1NjM4NH1d/add36a62cf/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi0xMDI1NjM4NH1d/bca6333c61/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi0xMDI1NjM4NH1d/1e0dc0f0ab/Stash_TabL.png"
+    },
+    {
+      "n": "Don't know what to do (Remove-only)",
+      "i": 266,
+      "id": "dd86c5817251f69265a059679266fab85d53ace6985b588d771eb3c5e72a9d30",
+      "type": "PremiumStash",
+      "selected": false,
+      "colour": {
+        "r": 99,
+        "g": 128,
+        "b": 0
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi0xMDI1NjM4NH1d/add36a62cf/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi0xMDI1NjM4NH1d/bca6333c61/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi0xMDI1NjM4NH1d/1e0dc0f0ab/Stash_TabL.png"
+    },
+    {
+      "n": "4 (Remove-only)",
+      "i": 267,
+      "id": "d5856856d6966bccad92d389a5bdfc6ba061fc34cc8ee5c35e5e5232613c6491",
+      "type": "NormalStash",
+      "selected": false,
+      "colour": {
+        "r": 124,
+        "g": 84,
+        "b": 54
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi04NjI5MTk0fV0/10d10e4923/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi04NjI5MTk0fV0/bc028daabc/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi04NjI5MTk0fV0/6aa79009ee/Stash_TabL.png"
+    },
+    {
+      "n": "3 (Remove-only)",
+      "i": 268,
+      "id": "c244ac59d70220aa57ab75bee082c204880446043f7dd63809c36fec00d3951a",
+      "type": "NormalStash",
+      "selected": false,
+      "colour": {
+        "r": 124,
+        "g": 84,
+        "b": 54
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi04NjI5MTk0fV0/10d10e4923/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi04NjI5MTk0fV0/bc028daabc/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi04NjI5MTk0fV0/6aa79009ee/Stash_TabL.png"
+    },
+    {
+      "n": "uniques",
+      "i": 269,
+      "id": "ad963dea7b62dab166e08627548a4111bc0013af040df193e9822d0b092bfea0",
+      "type": "PremiumStash",
+      "selected": false,
+      "colour": {
+        "r": 99,
+        "g": 128,
+        "b": 0
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi0xMDI1NjM4NH1d/add36a62cf/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi0xMDI1NjM4NH1d/bca6333c61/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi0xMDI1NjM4NH1d/1e0dc0f0ab/Stash_TabL.png"
+    },
+    {
+      "n": "skills (Remove-only)",
+      "i": 270,
+      "id": "14e9f2ba3b1ceec9a33ddd2f61f2a1c50f3014a6db958fa290e702b83c144000",
+      "type": "PremiumStash",
+      "selected": false,
+      "colour": {
+        "r": 99,
+        "g": 128,
+        "b": 0
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi0xMDI1NjM4NH1d/add36a62cf/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi0xMDI1NjM4NH1d/bca6333c61/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi0xMDI1NjM4NH1d/1e0dc0f0ab/Stash_TabL.png"
+    },
+    {
+      "n": "3",
+      "i": 271,
+      "id": "5be2f38c8a44d453cb2c10e0a7dae9ebb84d0376684f692fe03a732279d9b370",
+      "type": "NormalStash",
+      "selected": false,
+      "colour": {
+        "r": 124,
+        "g": 84,
+        "b": 54
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi04NjI5MTk0fV0/10d10e4923/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi04NjI5MTk0fV0/bc028daabc/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi04NjI5MTk0fV0/6aa79009ee/Stash_TabL.png"
+    },
+    {
+      "n": "baguees (Remove-only)",
+      "i": 272,
+      "id": "080895ff70cd137de46a3b4721fcb87d4cb0028c01bacd5210773a924555a7c7",
+      "type": "PremiumStash",
+      "selected": false,
+      "colour": {
+        "r": 44,
+        "g": 0,
+        "b": 89
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi0xMzg5MzU0M31d/a81359918a/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi0xMzg5MzU0M31d/649e0a490e/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi0xMzg5MzU0M31d/86085b5b72/Stash_TabL.png"
+    },
+    {
+      "n": "2",
+      "i": 273,
+      "id": "5cb39172f2dd4a4e4d3d3bbbf8e9e619034e945510b44ca5d91da15d5450c59f",
+      "type": "NormalStash",
+      "selected": false,
+      "colour": {
+        "r": 124,
+        "g": 84,
+        "b": 54
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi04NjI5MTk0fV0/10d10e4923/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi04NjI5MTk0fV0/bc028daabc/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi04NjI5MTk0fV0/6aa79009ee/Stash_TabL.png"
+    },
+    {
+      "n": "talismans (Remove-only)",
+      "i": 274,
+      "id": "7396c9e819c977101198cbe243510664d5f6363cde4511973fbafab2a456667e",
+      "type": "PremiumStash",
+      "selected": false,
+      "colour": {
+        "r": 89,
+        "g": 0,
+        "b": 0
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi0xMDk0NDUxMn1d/2e64348e45/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi0xMDk0NDUxMn1d/5c8a57aedb/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi0xMDk0NDUxMn1d/654fab7997/Stash_TabL.png"
+    },
+    {
+      "n": "uniques (Remove-only)",
+      "i": 275,
+      "id": "020048a17df58ead558ea91dd4a02ccf0ff803b1ed1b63ccfd9b3f69cab670d9",
+      "type": "PremiumStash",
+      "selected": false,
+      "colour": {
+        "r": 191,
+        "g": 0,
+        "b": 0
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi00MjU5ODQwfV0/cc64d967fb/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi00MjU5ODQwfV0/8e5ec47efe/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi00MjU5ODQwfV0/ff3a937d2d/Stash_TabL.png"
+    },
+    {
+      "n": "4",
+      "i": 276,
+      "id": "e6fe6d6987c39cf40a38d0e076b99fab9695cdfd0c6edc4f75a0f84f58146320",
+      "type": "NormalStash",
+      "selected": false,
+      "colour": {
+        "r": 124,
+        "g": 84,
+        "b": 54
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi04NjI5MTk0fV0/10d10e4923/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi04NjI5MTk0fV0/bc028daabc/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi04NjI5MTk0fV0/6aa79009ee/Stash_TabL.png"
+    },
+    {
+      "n": "3",
+      "i": 277,
+      "id": "75987ac78af57e84aa87fa791235de5c56c4e91f41b97a0b7492f1609c15fcb7",
+      "type": "PremiumStash",
+      "selected": false,
+      "colour": {
+        "r": 99,
+        "g": 128,
+        "b": 0
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi0xMDI1NjM4NH1d/add36a62cf/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi0xMDI1NjM4NH1d/bca6333c61/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi0xMDI1NjM4NH1d/1e0dc0f0ab/Stash_TabL.png"
+    },
+    {
+      "n": "2 (Remove-only)",
+      "i": 278,
+      "id": "7e0b0fc9e5f93211d646a7cc5468a8370d8a4789ae1437c58b831c187cb6cfa6",
+      "type": "NormalStash",
+      "selected": false,
+      "colour": {
+        "r": 124,
+        "g": 84,
+        "b": 54
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi04NjI5MTk0fV0/10d10e4923/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi04NjI5MTk0fV0/bc028daabc/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi04NjI5MTk0fV0/6aa79009ee/Stash_TabL.png"
+    },
+    {
+      "n": "4",
+      "i": 279,
+      "id": "0bee184f6adf7e5097fff0a92a9e14bd6e9db992607af0c438682907e6befc81",
+      "type": "PremiumStash",
+      "selected": false,
+      "colour": {
+        "r": 99,
+        "g": 128,
+        "b": 0
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi0xMDI1NjM4NH1d/add36a62cf/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi0xMDI1NjM4NH1d/bca6333c61/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi0xMDI1NjM4NH1d/1e0dc0f0ab/Stash_TabL.png"
+    },
+    {
+      "n": "5",
+      "i": 280,
+      "id": "016be3f8db01e7ab16cd4163982bd3363bbfdbd905eeac3d6ae739dbb69db59f",
+      "type": "PremiumStash",
+      "selected": false,
+      "colour": {
+        "r": 99,
+        "g": 128,
+        "b": 0
+      },
+      "srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi0xMDI1NjM4NH1d/add36a62cf/Stash_TabL.png",
+      "srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi0xMDI1NjM4NH1d/bca6333c61/Stash_TabL.png",
+      "srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi0xMDI1NjM4NH1d/1e0dc0f0ab/Stash_TabL.png"
+    }
+  ]
+}

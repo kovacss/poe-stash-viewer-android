@@ -1,27 +1,44 @@
 package com.example.myapplication
 
-import androidx.test.espresso.Espresso.onData
 import androidx.test.espresso.Espresso.onView
 import androidx.test.espresso.action.ViewActions.click
 import androidx.test.espresso.assertion.ViewAssertions.doesNotExist
 import androidx.test.espresso.assertion.ViewAssertions.matches
-import androidx.test.espresso.contrib.RecyclerViewActions
-import androidx.test.espresso.matcher.ViewMatchers
 import androidx.test.espresso.matcher.ViewMatchers.*
 import androidx.test.ext.junit.rules.ActivityScenarioRule
 import androidx.test.ext.junit.runners.AndroidJUnit4
 import androidx.test.filters.LargeTest
-import org.hamcrest.CoreMatchers.not
+import androidx.test.platform.app.InstrumentationRegistry
+import com.github.tomakehurst.wiremock.core.WireMockConfiguration
+import com.github.tomakehurst.wiremock.junit.WireMockRule
+import org.junit.Before
 import org.junit.Rule
 import org.junit.Test
 import org.junit.runner.RunWith
+import wiremock.org.apache.commons.io.IOUtils
+import java.nio.charset.StandardCharsets
 
 @RunWith(AndroidJUnit4::class)
 @LargeTest
-class HelloWorldEspressoTest {
+class StashTabActivityTest {
 
     @get:Rule
     val activityRule = ActivityScenarioRule(MainActivity::class.java)
+
+    @get:Rule
+    val server: WireMockRule = WireMockRule(WireMockConfiguration().dynamicPort())
+
+    @Before
+    fun setup() {
+        val league = "standard"
+        val accountName = "mathil"
+
+        val requestFixture = HttpFixture.getStashItemRequest(server, league, accountName);
+
+        var input = InstrumentationRegistry.getInstrumentation().context.assets.open("tabs_response.json")
+        var jsonResponse = IOUtils.toString(input, StandardCharsets.UTF_8.name());
+        server.stubFor(requestFixture.willReturn(HttpFixture.getStashItemResponse(jsonResponse)));
+    }
 
     @Test
     fun loadITabButtonIsDisplayed() {
@@ -32,7 +49,7 @@ class HelloWorldEspressoTest {
 
     @Test
     fun loadButton_WhenClicked_ShouldLoadStashTab() {
-        onView(withText(R.id.button)).check(matches(isDisplayed()))
+        onView(withId(R.id.button)).check(matches(isDisplayed()))
 
         // Required when all tests run
         // Probably that the clickHandler is not correctly bound on ActivityCreated but it needs more investigation
